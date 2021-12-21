@@ -5,6 +5,7 @@
  - numpy
  - pandas
  - sklearn
+
 (Install with `pip install <package>`)
 
 ## Running the Game
