@@ -1,0 +1,802 @@
+,name,abilities,attack,classfication,height_m,hp,percentage_male,speed,type1,type2,weight_kg,generation,is_legendary
+0,Bulbasaur,"['Overgrow', 'Chlorophyll']",49,Seed Pokémon,0.7,45,88.1,45,grass,poison,6.9,1,0
+1,Ivysaur,"['Overgrow', 'Chlorophyll']",62,Seed Pokémon,1.0,60,88.1,60,grass,poison,13.0,1,0
+2,Venusaur,"['Overgrow', 'Chlorophyll']",100,Seed Pokémon,2.0,80,88.1,80,grass,poison,100.0,1,0
+3,Charmander,"['Blaze', 'Solar Power']",52,Lizard Pokémon,0.6,39,88.1,65,fire,,8.5,1,0
+4,Charmeleon,"['Blaze', 'Solar Power']",64,Flame Pokémon,1.1,58,88.1,80,fire,,19.0,1,0
+5,Charizard,"['Blaze', 'Solar Power']",104,Flame Pokémon,1.7,78,88.1,100,fire,flying,90.5,1,0
+6,Squirtle,"['Torrent', 'Rain Dish']",48,Tiny Turtle Pokémon,0.5,44,88.1,43,water,,9.0,1,0
+7,Wartortle,"['Torrent', 'Rain Dish']",63,Turtle Pokémon,1.0,59,88.1,58,water,,22.5,1,0
+8,Blastoise,"['Torrent', 'Rain Dish']",103,Shellfish Pokémon,1.6,79,88.1,78,water,,85.5,1,0
+9,Caterpie,"['Shield Dust', 'Run Away']",30,Worm Pokémon,0.3,45,50.0,45,bug,,2.9,1,0
+10,Metapod,['Shed Skin'],20,Cocoon Pokémon,0.7,50,50.0,30,bug,,9.9,1,0
+11,Butterfree,"['Compoundeyes', 'Tinted Lens']",45,Butterfly Pokémon,1.1,60,50.0,70,bug,flying,32.0,1,0
+12,Weedle,"['Shield Dust', 'Run Away']",35,Hairy Pokémon,0.3,40,50.0,50,bug,poison,3.2,1,0
+13,Kakuna,['Shed Skin'],25,Cocoon Pokémon,0.6,45,50.0,35,bug,poison,10.0,1,0
+14,Beedrill,"['Swarm', 'Sniper']",150,Poison Bee Pokémon,1.0,65,50.0,145,bug,poison,29.5,1,0
+15,Pidgey,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",45,Tiny Bird Pokémon,0.3,40,50.0,56,normal,flying,1.8,1,0
+16,Pidgeotto,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",60,Bird Pokémon,1.1,63,50.0,71,normal,flying,30.0,1,0
+17,Pidgeot,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",80,Bird Pokémon,1.5,83,50.0,121,normal,flying,39.5,1,0
+18,Rattata,"['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",56,Mouse Pokémon,,30,50.0,72,normal,dark,,1,0
+19,Raticate,"['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",71,Mouse Pokémon,,75,50.0,77,normal,dark,,1,0
+20,Spearow,"['Keen Eye', 'Sniper']",60,Tiny Bird Pokémon,0.3,40,50.0,70,normal,flying,2.0,1,0
+21,Fearow,"['Keen Eye', 'Sniper']",90,Beak Pokémon,1.2,65,50.0,100,normal,flying,38.0,1,0
+22,Ekans,"['Intimidate', 'Shed Skin', 'Unnerve']",60,Snake Pokémon,2.0,35,50.0,55,poison,,6.9,1,0
+23,Arbok,"['Intimidate', 'Shed Skin', 'Unnerve']",95,Cobra Pokémon,3.5,60,50.0,80,poison,,65.0,1,0
+24,Pikachu,"['Static', 'Lightningrod']",55,Mouse Pokémon,0.4,35,50.0,90,electric,,6.0,1,0
+25,Raichu,"['Static', 'Lightningrod', 'Surge Surfer']",85,Mouse Pokémon,,60,50.0,110,electric,electric,,1,0
+26,Sandshrew,"['Sand Veil', 'Sand Rush', 'Snow Cloak', 'Slush Rush']",75,Mouse Pokémon,,50,50.0,40,ground,ice,,1,0
+27,Sandslash,"['Sand Veil', 'Sand Rush', 'Snow Cloak', 'Slush Rush']",100,Mouse Pokémon,,75,50.0,65,ground,ice,,1,0
+28,Nidoran♀,"['Poison Point', 'Rivalry', 'Hustle']",47,Poison Pin Pokémon,0.4,55,0.0,41,poison,,7.0,1,0
+29,Nidorina,"['Poison Point', 'Rivalry', 'Hustle']",62,Poison Pin Pokémon,0.8,70,0.0,56,poison,,20.0,1,0
+30,Nidoqueen,"['Poison Point', 'Rivalry', 'Sheer Force']",92,Drill Pokémon,1.3,90,0.0,76,poison,ground,60.0,1,0
+31,Nidoran♂,"['Poison Point', 'Rivalry', 'Hustle']",57,Poison Pin Pokémon,0.5,46,100.0,50,poison,,9.0,1,0
+32,Nidorino,"['Poison Point', 'Rivalry', 'Hustle']",72,Poison Pin Pokémon,0.9,61,100.0,65,poison,,19.5,1,0
+33,Nidoking,"['Poison Point', 'Rivalry', 'Sheer Force']",102,Drill Pokémon,1.4,81,100.0,85,poison,ground,62.0,1,0
+34,Clefairy,"['Cute Charm', 'Magic Guard', 'Friend Guard']",45,Fairy Pokémon,0.6,70,24.6,35,fairy,,7.5,1,0
+35,Clefable,"['Cute Charm', 'Magic Guard', 'Unaware']",70,Fairy Pokémon,1.3,95,24.6,60,fairy,,40.0,1,0
+36,Vulpix,"['Flash Fire', 'Drought', 'Snow Cloak', 'Snow Warning']",41,Fox Pokémon,,38,24.6,65,fire,ice,,1,0
+37,Ninetales,"['Flash Fire', 'Drought', 'Snow Cloak', 'Snow Warning']",67,Fox Pokémon,,73,24.6,109,fire,ice,,1,0
+38,Jigglypuff,"['Cute Charm', 'Competitive', 'Friend Guard']",45,Balloon Pokémon,0.5,115,24.6,20,normal,fairy,5.5,1,0
+39,Wigglytuff,"['Cute Charm', 'Competitive', 'Frisk']",70,Balloon Pokémon,1.0,140,24.6,45,normal,fairy,12.0,1,0
+40,Zubat,"['Inner Focus', 'Infiltrator']",45,Bat Pokémon,0.8,40,50.0,55,poison,flying,7.5,1,0
+41,Golbat,"['Inner Focus', 'Infiltrator']",80,Bat Pokémon,1.6,75,50.0,90,poison,flying,55.0,1,0
+42,Oddish,"['Chlorophyll', 'Run Away']",50,Weed Pokémon,0.5,45,50.0,30,grass,poison,5.4,1,0
+43,Gloom,"['Chlorophyll', 'Stench']",65,Weed Pokémon,0.8,60,50.0,40,grass,poison,8.6,1,0
+44,Vileplume,"['Chlorophyll', 'Effect Spore']",80,Flower Pokémon,1.2,75,50.0,50,grass,poison,18.6,1,0
+45,Paras,"['Effect Spore', 'Dry Skin', 'Damp']",70,Mushroom Pokémon,0.3,35,50.0,25,bug,grass,5.4,1,0
+46,Parasect,"['Effect Spore', 'Dry Skin', 'Damp']",95,Mushroom Pokémon,1.0,60,50.0,30,bug,grass,29.5,1,0
+47,Venonat,"['Compoundeyes', 'Tinted Lens', 'Run Away']",55,Insect Pokémon,1.0,60,50.0,45,bug,poison,30.0,1,0
+48,Venomoth,"['Shield Dust', 'Tinted Lens', 'Wonder Skin ']",65,Poison Moth Pokémon,1.5,70,50.0,90,bug,poison,12.5,1,0
+49,Diglett,"['Sand Veil', 'Arena Trap', 'Sand Force', 'Sand Veil', 'Tangling Hair', 'Sand Force']",55,Mole Pokémon,,10,50.0,90,ground,ground,,1,0
+50,Dugtrio,"['Sand Veil', 'Arena Trap', 'Sand Force', 'Sand Veil', 'Tangling Hair', 'Sand Force']",100,Mole Pokémon,,35,50.0,110,ground,ground,,1,0
+51,Meowth,"['Pickup', 'Technician', 'Unnerve', 'Pickup', 'Technician', 'Rattled']",35,Scratch Cat Pokémon,,40,50.0,90,normal,dark,,1,0
+52,Persian,"['Limber', 'Technician', 'Unnerve', 'Fur Coat', 'Technician', 'Rattled']",60,Classy Cat Pokémon,,65,50.0,115,normal,dark,,1,0
+53,Psyduck,"['Damp', 'Cloud Nine', 'Swift Swim']",52,Duck Pokémon,0.8,50,50.0,55,water,,19.6,1,0
+54,Golduck,"['Damp', 'Cloud Nine', 'Swift Swim']",82,Duck Pokémon,1.7,80,50.0,85,water,,76.6,1,0
+55,Mankey,"['Vital Spirit', 'Anger Point', 'Defiant']",80,Pig Monkey Pokémon,0.5,40,50.0,70,fighting,,28.0,1,0
+56,Primeape,"['Vital Spirit', 'Anger Point', 'Defiant']",105,Pig Monkey Pokémon,1.0,65,50.0,95,fighting,,32.0,1,0
+57,Growlithe,"['Intimidate', 'Flash Fire', 'Justified']",70,Puppy Pokémon,0.7,55,75.4,60,fire,,19.0,1,0
+58,Arcanine,"['Intimidate', 'Flash Fire', 'Justified']",110,Legendary Pokémon,1.9,90,75.4,95,fire,,155.0,1,0
+59,Poliwag,"['Water Absorb', 'Damp', 'Swift Swim']",50,Tadpole Pokémon,0.6,40,50.0,90,water,,12.4,1,0
+60,Poliwhirl,"['Water Absorb', 'Damp', 'Swift Swim']",65,Tadpole Pokémon,1.0,65,50.0,90,water,,20.0,1,0
+61,Poliwrath,"['Water Absorb', 'Damp', 'Swift Swim']",95,Tadpole Pokémon,1.3,90,50.0,70,water,fighting,54.0,1,0
+62,Abra,"['Synchronize', 'Inner Focus', 'Magic Guard']",20,Psi Pokémon,0.9,25,75.4,90,psychic,,19.5,1,0
+63,Kadabra,"['Synchronize', 'Inner Focus', 'Magic Guard']",35,Psi Pokémon,1.3,40,75.4,105,psychic,,56.5,1,0
+64,Alakazam,"['Synchronize', 'Inner Focus', 'Magic Guard']",50,Psi Pokémon,1.5,55,75.4,150,psychic,,48.0,1,0
+65,Machop,"['Guts', 'No Guard', 'Steadfast']",80,Superpower Pokémon,0.8,70,75.4,35,fighting,,19.5,1,0
+66,Machoke,"['Guts', 'No Guard', 'Steadfast']",100,Superpower Pokémon,1.5,80,75.4,45,fighting,,70.5,1,0
+67,Machamp,"['Guts', 'No Guard', 'Steadfast']",130,Superpower Pokémon,1.6,90,75.4,55,fighting,,130.0,1,0
+68,Bellsprout,"['Chlorophyll', 'Gluttony']",75,Flower Pokémon,0.7,50,50.0,40,grass,poison,4.0,1,0
+69,Weepinbell,"['Chlorophyll', 'Gluttony']",90,Flycatcher Pokémon,1.0,65,50.0,55,grass,poison,6.4,1,0
+70,Victreebel,"['Chlorophyll', 'Gluttony']",105,Flycatcher Pokémon,1.7,80,50.0,70,grass,poison,15.5,1,0
+71,Tentacool,"['Clear Body', 'Liquid Ooze', 'Rain Dish']",40,Jellyfish Pokémon,0.9,40,50.0,70,water,poison,45.5,1,0
+72,Tentacruel,"['Clear Body', 'Liquid Ooze', 'Rain Dish']",70,Jellyfish Pokémon,1.6,80,50.0,100,water,poison,55.0,1,0
+73,Geodude,"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",80,Rock Pokémon,,40,50.0,20,rock,ground,,1,0
+74,Graveler,"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",95,Rock Pokémon,,55,50.0,35,rock,ground,,1,0
+75,Golem,"['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",120,Megaton Pokémon,,80,50.0,45,rock,ground,,1,0
+76,Ponyta,"['Run Away', 'Flash Fire', 'Flame Body']",85,Fire Horse Pokémon,1.0,50,50.0,90,fire,,30.0,1,0
+77,Rapidash,"['Run Away', 'Flash Fire', 'Flame Body']",100,Fire Horse Pokémon,1.7,65,50.0,105,fire,,95.0,1,0
+78,Slowpoke,"['Oblivious', 'Own Tempo', 'Regenerator']",65,Dopey Pokémon,1.2,90,50.0,15,water,psychic,36.0,1,0
+79,Slowbro,"['Oblivious', 'Own Tempo', 'Regenerator']",75,Hermit Crab Pokémon,1.6,95,50.0,30,water,psychic,78.5,1,0
+80,Magnemite,"['Magnet Pull', 'Sturdy', 'Analytic']",35,Magnet Pokémon,0.3,25,,45,electric,steel,6.0,1,0
+81,Magneton,"['Magnet Pull', 'Sturdy', 'Analytic']",60,Magnet Pokémon,1.0,50,,70,electric,steel,60.0,1,0
+82,Farfetch'd,"['Keen Eye', 'Inner Focus', 'Defiant']",90,Wild Duck Pokémon,0.8,52,50.0,60,normal,flying,15.0,1,0
+83,Doduo,"['Run Away', 'Early Bird', 'Tangled Feet']",85,Twin Bird Pokémon,1.4,35,50.0,75,normal,flying,39.2,1,0
+84,Dodrio,"['Run Away', 'Early Bird', 'Tangled Feet']",110,Triple Bird Pokémon,1.8,60,50.0,110,normal,flying,85.2,1,0
+85,Seel,"['Thick Fat', 'Hydration', 'Ice Body']",45,Sea Lion Pokémon,1.1,65,50.0,45,water,,90.0,1,0
+86,Dewgong,"['Thick Fat', 'Hydration', 'Ice Body']",70,Sea Lion Pokémon,1.7,90,50.0,70,water,ice,120.0,1,0
+87,Grimer,"['Stench', 'Sticky Hold', 'Poison Touch', 'Poison Touch', 'Gluttony', 'Power of Alchemy']",80,Sludge Pokémon,,80,50.0,25,poison,poison,,1,0
+88,Muk,"['Stench', 'Sticky Hold', 'Poison Touch', 'Poison Touch', 'Gluttony', 'Power of Alchemy']",105,Sludge Pokémon,,105,50.0,50,poison,poison,,1,0
+89,Shellder,"['Shell Armor', 'Skill Link', 'Overcoat']",65,Bivalve Pokémon,0.3,30,50.0,40,water,,4.0,1,0
+90,Cloyster,"['Shell Armor', 'Skill Link', 'Overcoat']",95,Bivalve Pokémon,1.5,50,50.0,70,water,ice,132.5,1,0
+91,Gastly,['Levitate'],35,Gas Pokémon,1.3,30,50.0,80,ghost,poison,0.1,1,0
+92,Haunter,['Levitate'],50,Gas Pokémon,1.6,45,50.0,95,ghost,poison,0.1,1,0
+93,Gengar,['Cursed Body'],65,Shadow Pokémon,1.5,60,50.0,130,ghost,poison,40.5,1,0
+94,Onix,"['Rock Head', 'Sturdy', 'Weak Armor']",45,Rock Snake Pokémon,8.8,35,50.0,70,rock,ground,210.0,1,0
+95,Drowzee,"['Insomnia', 'Forewarn', 'Inner Focus']",48,Hypnosis Pokémon,1.0,60,50.0,42,psychic,,32.4,1,0
+96,Hypno,"['Insomnia', 'Forewarn', 'Inner Focus']",73,Hypnosis Pokémon,1.6,85,50.0,67,psychic,,75.6,1,0
+97,Krabby,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",105,River Crab Pokémon,0.4,30,50.0,50,water,,6.5,1,0
+98,Kingler,"['Hyper Cutter', 'Shell Armor', 'Sheer Force']",130,Pincer Pokémon,1.3,55,50.0,75,water,,60.0,1,0
+99,Voltorb,"['Soundproof', 'Static', 'Aftermath']",30,Ball Pokémon,0.5,40,,100,electric,,10.4,1,0
+100,Electrode,"['Soundproof', 'Static', 'Aftermath']",50,Ball Pokémon,1.2,60,,150,electric,,66.6,1,0
+101,Exeggcute,"['Chlorophyll', 'Harvest']",40,Egg Pokémon,0.4,60,50.0,40,grass,psychic,2.5,1,0
+102,Exeggutor,"['Chlorophyll', 'Harvest', 'Frisk', 'Harvest']",105,Coconut Pokémon,,95,50.0,45,grass,psychic,,1,0
+103,Cubone,"['Rock Head', 'Lightningrod', 'Battle Armor']",50,Lonely Pokémon,0.4,50,50.0,35,ground,,6.5,1,0
+104,Marowak,"['Rock Head', 'Lightningrod', 'Battle Armor', 'Cursed Body', 'Lightningrod', 'Rock Head']",80,Bone Keeper Pokémon,,60,50.0,45,ground,fire,,1,0
+105,Hitmonlee,"['Limber', 'Reckless', 'Unburden']",120,Kicking Pokémon,1.5,50,100.0,87,fighting,,49.8,1,0
+106,Hitmonchan,"['Keen Eye', 'Iron Fist', 'Inner Focus']",105,Punching Pokémon,1.4,50,100.0,76,fighting,,50.2,1,0
+107,Lickitung,"['Own Tempo', 'Oblivious', 'Cloud Nine']",55,Licking Pokémon,1.2,90,50.0,30,normal,,65.5,1,0
+108,Koffing,['Levitate'],65,Poison Gas Pokémon,0.6,40,50.0,35,poison,,1.0,1,0
+109,Weezing,['Levitate'],90,Poison Gas Pokémon,1.2,65,50.0,60,poison,,9.5,1,0
+110,Rhyhorn,"['Lightningrod', 'Rock Head', 'Reckless']",85,Spikes Pokémon,1.0,80,50.0,25,ground,rock,115.0,1,0
+111,Rhydon,"['Lightningrod', 'Rock Head', 'Reckless']",130,Drill Pokémon,1.9,105,50.0,40,ground,rock,120.0,1,0
+112,Chansey,"['Natural Cure', 'Serene Grace', 'Healer']",5,Egg Pokémon,1.1,250,0.0,50,normal,,34.6,1,0
+113,Tangela,"['Chlorophyll', 'Leaf Guard', 'Regenerator']",55,Vine Pokémon,1.0,65,50.0,60,grass,,35.0,1,0
+114,Kangaskhan,"['Early Bird', 'Scrappy', 'Inner Focus']",125,Parent Pokémon,2.2,105,0.0,100,normal,,80.0,1,0
+115,Horsea,"['Swift Swim', 'Sniper', 'Damp']",40,Dragon Pokémon,0.4,30,50.0,60,water,,8.0,1,0
+116,Seadra,"['Poison Point', 'Sniper', 'Damp']",65,Dragon Pokémon,1.2,55,50.0,85,water,,25.0,1,0
+117,Goldeen,"['Swift Swim', 'Water Veil', 'Lightningrod']",67,Goldfish Pokémon,0.6,45,50.0,63,water,,15.0,1,0
+118,Seaking,"['Swift Swim', 'Water Veil', 'Lightningrod']",92,Goldfish Pokémon,1.3,80,50.0,68,water,,39.0,1,0
+119,Staryu,"['Illuminate', 'Natural Cure', 'Analytic']",45,Starshape Pokémon,0.8,30,,85,water,,34.5,1,0
+120,Starmie,"['Illuminate', 'Natural Cure', 'Analytic']",75,Mysterious Pokémon,1.1,60,,115,water,psychic,80.0,1,0
+121,Mr. Mime,"['Soundproof', 'Filter', 'Technician']",45,Barrier Pokémon,1.3,40,50.0,90,psychic,fairy,54.5,1,0
+122,Scyther,"['Swarm', 'Technician', 'Steadfast']",110,Mantis Pokémon,1.5,70,50.0,105,bug,flying,56.0,1,0
+123,Jynx,"['Oblivious', 'Forewarn', 'Dry Skin']",50,Humanshape Pokémon,1.4,65,0.0,95,ice,psychic,40.6,1,0
+124,Electabuzz,"['Static', 'Vital Spirit']",83,Electric Pokémon,1.1,65,75.4,105,electric,,30.0,1,0
+125,Magmar,"['Flame Body', 'Vital Spirit']",95,Spitfire Pokémon,1.3,65,75.4,93,fire,,44.5,1,0
+126,Pinsir,"['Hyper Cutter', 'Mold Breaker', 'Moxie']",155,Stagbeetle Pokémon,1.5,65,50.0,105,bug,,55.0,1,0
+127,Tauros,"['Intimidate', 'Anger Point', 'Sheer Force']",100,Wild Bull Pokémon,1.4,75,100.0,110,normal,,88.4,1,0
+128,Magikarp,"['Swift Swim', 'Rattled']",10,Fish Pokémon,0.9,20,50.0,80,water,,10.0,1,0
+129,Gyarados,"['Intimidate', 'Moxie']",155,Atrocious Pokémon,6.5,95,50.0,81,water,flying,235.0,1,0
+130,Lapras,"['Water Absorb', 'Shell Armor', 'Hydration']",85,Transport Pokémon,2.5,130,50.0,60,water,ice,220.0,1,0
+131,Ditto,"['Limber', 'Imposter']",48,Transform Pokémon,0.3,48,,48,normal,,4.0,1,0
+132,Eevee,"['Run Away', 'Adaptability', 'Anticipation']",55,Evolution Pokémon,0.3,55,88.1,55,normal,,6.5,1,0
+133,Vaporeon,"['Water Absorb', 'Hydration']",65,Bubble Jet Pokémon,1.0,130,88.1,65,water,,29.0,1,0
+134,Jolteon,"['Volt Absorb', 'Quick Feet']",65,Lightning Pokémon,0.8,65,88.1,130,electric,,24.5,1,0
+135,Flareon,"['Flash Fire', 'Guts']",130,Flame Pokémon,0.9,65,88.1,65,fire,,25.0,1,0
+136,Porygon,"['Trace', 'Download', 'Analytic']",60,Virtual Pokémon,0.8,65,,40,normal,,36.5,1,0
+137,Omanyte,"['Swift Swim', 'Shell Armor', 'Weak Armor']",40,Spiral Pokémon,0.4,35,88.1,35,rock,water,7.5,1,0
+138,Omastar,"['Swift Swim', 'Shell Armor', 'Weak Armor']",60,Spiral Pokémon,1.0,70,88.1,55,rock,water,35.0,1,0
+139,Kabuto,"['Swift Swim', 'Battle Armor', 'Weak Armor']",80,Shellfish Pokémon,0.5,30,88.1,55,rock,water,11.5,1,0
+140,Kabutops,"['Swift Swim', 'Battle Armor', 'Weak Armor']",115,Shellfish Pokémon,1.3,60,88.1,80,rock,water,40.5,1,0
+141,Aerodactyl,"['Rock Head', 'Pressure', 'Unnerve']",135,Fossil Pokémon,1.8,80,88.1,150,rock,flying,59.0,1,0
+142,Snorlax,"['Immunity', 'Thick Fat', 'Gluttony']",110,Sleeping Pokémon,2.1,160,88.1,30,normal,,460.0,1,0
+143,Articuno,"['Pressure', 'Snow Cloak']",85,Freeze Pokémon,1.7,90,,85,ice,flying,55.4,1,1
+144,Zapdos,"['Pressure', 'Static']",90,Electric Pokémon,1.6,90,,100,electric,flying,52.6,1,1
+145,Moltres,"['Pressure', 'Flame Body']",100,Flame Pokémon,2.0,90,,90,fire,flying,60.0,1,1
+146,Dratini,"['Shed Skin', 'Marvel Scale']",64,Dragon Pokémon,1.8,41,50.0,50,dragon,,3.3,1,0
+147,Dragonair,"['Shed Skin', 'Marvel Scale']",84,Dragon Pokémon,4.0,61,50.0,70,dragon,,16.5,1,0
+148,Dragonite,"['Inner Focus', 'Multiscale']",134,Dragon Pokémon,2.2,91,50.0,80,dragon,flying,210.0,1,0
+149,Mewtwo,"['Pressure', 'Unnerve']",150,Genetic Pokémon,2.0,106,,140,psychic,,122.0,1,1
+150,Mew,['Synchronize'],100,New Species Pokémon,0.4,100,,100,psychic,,4.0,1,1
+151,Chikorita,"['Overgrow', 'Leaf Guard']",49,Leaf Pokémon,0.9,45,88.1,45,grass,,6.4,2,0
+152,Bayleef,"['Overgrow', 'Leaf Guard']",62,Leaf Pokémon,1.2,60,88.1,60,grass,,15.8,2,0
+153,Meganium,"['Overgrow', 'Leaf Guard']",82,Herb Pokémon,1.8,80,88.1,80,grass,,100.5,2,0
+154,Cyndaquil,"['Blaze', 'Flash Fire']",52,Fire Mouse Pokémon,0.5,39,88.1,65,fire,,7.9,2,0
+155,Quilava,"['Blaze', 'Flash Fire']",64,Volcano Pokémon,0.9,58,88.1,80,fire,,19.0,2,0
+156,Typhlosion,"['Blaze', 'Flash Fire']",84,Volcano Pokémon,1.7,78,88.1,100,fire,,79.5,2,0
+157,Totodile,"['Torrent', 'Sheer Force']",65,Big Jaw Pokémon,0.6,50,88.1,43,water,,9.5,2,0
+158,Croconaw,"['Torrent', 'Sheer Force']",80,Big Jaw Pokémon,1.1,65,88.1,58,water,,25.0,2,0
+159,Feraligatr,"['Torrent', 'Sheer Force']",105,Big Jaw Pokémon,2.3,85,88.1,78,water,,88.8,2,0
+160,Sentret,"['Run Away', 'Keen Eye', 'Frisk']",46,Scout Pokémon,0.8,35,50.0,20,normal,,6.0,2,0
+161,Furret,"['Run Away', 'Keen Eye', 'Frisk']",76,Long Body Pokémon,1.8,85,50.0,90,normal,,32.5,2,0
+162,Hoothoot,"['Insomnia', 'Keen Eye', 'Tinted Lens']",30,Owl Pokémon,0.7,60,50.0,50,normal,flying,21.2,2,0
+163,Noctowl,"['Insomnia', 'Keen Eye', 'Tinted Lens']",50,Owl Pokémon,1.6,100,50.0,70,normal,flying,40.8,2,0
+164,Ledyba,"['Swarm', 'Early Bird', 'Rattled']",20,Five Star Pokémon,1.0,40,50.0,55,bug,flying,10.8,2,0
+165,Ledian,"['Swarm', 'Early Bird', 'Iron Fist']",35,Five Star Pokémon,1.4,55,50.0,85,bug,flying,35.6,2,0
+166,Spinarak,"['Swarm', 'Insomnia', 'Sniper']",60,String Spit Pokémon,0.5,40,50.0,30,bug,poison,8.5,2,0
+167,Ariados,"['Swarm', 'Insomnia', 'Sniper']",90,Long Leg Pokémon,1.1,70,50.0,40,bug,poison,33.5,2,0
+168,Crobat,"['Inner Focus', 'Infiltrator']",90,Bat Pokémon,1.8,85,50.0,130,poison,flying,75.0,2,0
+169,Chinchou,"['Volt Absorb', 'Illuminate', 'Water Absorb']",38,Angler Pokémon,0.5,75,50.0,67,water,electric,12.0,2,0
+170,Lanturn,"['Volt Absorb', 'Illuminate', 'Water Absorb']",58,Light Pokémon,1.2,125,50.0,67,water,electric,22.5,2,0
+171,Pichu,"['Static', 'Lightningrod']",40,Tiny Mouse Pokémon,0.3,20,50.0,60,electric,,2.0,2,0
+172,Cleffa,"['Cute Charm', 'Magic Guard', 'Friend Guard']",25,Star Shape Pokémon,0.3,50,24.6,15,fairy,,3.0,2,0
+173,Igglybuff,"['Cute Charm', 'Competitive', 'Friend Guard']",30,Balloon Pokémon,0.3,90,24.6,15,normal,fairy,1.0,2,0
+174,Togepi,"['Hustle', 'Serene Grace', 'Super Luck']",20,Spike Ball Pokémon,0.3,35,88.1,20,fairy,,1.5,2,0
+175,Togetic,"['Hustle', 'Serene Grace', 'Super Luck']",40,Happiness Pokémon,0.6,55,88.1,40,fairy,flying,3.2,2,0
+176,Natu,"['Synchronize', 'Early Bird', 'Magic Bounce']",50,Little Bird Pokémon,0.2,40,50.0,70,psychic,flying,2.0,2,0
+177,Xatu,"['Synchronize', 'Early Bird', 'Magic Bounce']",75,Mystic Pokémon,1.5,65,50.0,95,psychic,flying,15.0,2,0
+178,Mareep,"['Static', 'Plus']",40,Wool Pokémon,0.6,55,50.0,35,electric,,7.8,2,0
+179,Flaaffy,"['Static', 'Plus']",55,Wool Pokémon,0.8,70,50.0,45,electric,,13.3,2,0
+180,Ampharos,"['Static', 'Plus']",95,Light Pokémon,1.4,90,50.0,45,electric,,61.5,2,0
+181,Bellossom,"['Chlorophyll', 'Healer']",80,Flower Pokémon,0.4,75,50.0,50,grass,,5.8,2,0
+182,Marill,"['Thick Fat', 'Huge Power', 'Sap Sipper']",20,Aquamouse Pokémon,0.4,70,50.0,40,water,fairy,8.5,2,0
+183,Azumarill,"['Thick Fat', 'Huge Power', 'Sap Sipper']",50,Aquarabbit Pokémon,0.8,100,50.0,50,water,fairy,28.5,2,0
+184,Sudowoodo,"['Sturdy', 'Rock Head', 'Rattled']",100,Imitation Pokémon,1.2,70,50.0,30,rock,,38.0,2,0
+185,Politoed,"['Water Absorb', 'Damp', 'Drizzle']",75,Frog Pokémon,1.1,90,50.0,70,water,,33.9,2,0
+186,Hoppip,"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",35,Cottonweed Pokémon,0.4,35,50.0,50,grass,flying,0.5,2,0
+187,Skiploom,"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",45,Cottonweed Pokémon,0.6,55,50.0,80,grass,flying,1.0,2,0
+188,Jumpluff,"['Chlorophyll', 'Leaf Guard', 'Infiltrator']",55,Cottonweed Pokémon,0.8,75,50.0,110,grass,flying,3.0,2,0
+189,Aipom,"['Run Away', 'Pickup', 'Skill Link']",70,Long Tail Pokémon,0.8,55,50.0,85,normal,,11.5,2,0
+190,Sunkern,"['Chlorophyll', 'Solar Power', 'Early Bird']",30,Seed Pokémon,0.3,30,50.0,30,grass,,1.8,2,0
+191,Sunflora,"['Chlorophyll', 'Solar Power', 'Early Bird']",75,Sun Pokémon,0.8,75,50.0,30,grass,,8.5,2,0
+192,Yanma,"['Speed Boost', 'Compoundeyes', 'Frisk']",65,Clear Wing Pokémon,1.2,65,50.0,95,bug,flying,38.0,2,0
+193,Wooper,"['Damp', 'Water Absorb', 'Unaware']",45,Water Fish Pokémon,0.4,55,50.0,15,water,ground,8.5,2,0
+194,Quagsire,"['Damp', 'Water Absorb', 'Unaware']",85,Water Fish Pokémon,1.4,95,50.0,35,water,ground,75.0,2,0
+195,Espeon,"['Synchronize', 'Magic Bounce']",65,Sun Pokémon,0.9,65,88.1,110,psychic,,26.5,2,0
+196,Umbreon,"['Synchronize', 'Inner Focus']",65,Moonlight Pokémon,1.0,95,88.1,65,dark,,27.0,2,0
+197,Murkrow,"['Insomnia', 'Super Luck', 'Prankster']",85,Darkness Pokémon,0.5,60,50.0,91,dark,flying,2.1,2,0
+198,Slowking,"['Oblivious', 'Own Tempo', 'Regenerator']",75,Royal Pokémon,2.0,95,50.0,30,water,psychic,79.5,2,0
+199,Misdreavus,['Levitate'],60,Screech Pokémon,0.7,60,50.0,85,ghost,,1.0,2,0
+200,Unown,['Levitate'],72,Symbol Pokémon,0.5,48,,48,psychic,,5.0,2,0
+201,Wobbuffet,"['Shadow Tag', 'Telepathy']",33,Patient Pokémon,1.3,190,50.0,33,psychic,,28.5,2,0
+202,Girafarig,"['Inner Focus', 'Early Bird', 'Sap Sipper']",80,Long Neck Pokémon,1.5,70,50.0,85,normal,psychic,41.5,2,0
+203,Pineco,"['Sturdy', 'Overcoat']",65,Bagworm Pokémon,0.6,50,50.0,15,bug,,7.2,2,0
+204,Forretress,"['Sturdy', 'Overcoat']",90,Bagworm Pokémon,1.2,75,50.0,40,bug,steel,125.8,2,0
+205,Dunsparce,"['Serene Grace', 'Run Away', 'Rattled']",70,Land Snake Pokémon,1.5,100,50.0,45,normal,,14.0,2,0
+206,Gligar,"['Hyper Cutter', 'Sand Veil', 'Immunity']",75,Flyscorpion Pokémon,1.1,65,50.0,85,ground,flying,64.8,2,0
+207,Steelix,"['Rock Head', 'Sturdy', 'Sheer Force']",125,Iron Snake Pokémon,9.2,75,50.0,30,steel,ground,400.0,2,0
+208,Snubbull,"['Intimidate', 'Run Away', 'Rattled']",80,Fairy Pokémon,0.6,60,24.6,30,fairy,,7.8,2,0
+209,Granbull,"['Intimidate', 'Quick Feet', 'Rattled']",120,Fairy Pokémon,1.4,90,24.6,45,fairy,,48.7,2,0
+210,Qwilfish,"['Poison Point', 'Swift Swim', 'Intimidate']",95,Balloon Pokémon,0.5,65,50.0,85,water,poison,3.9,2,0
+211,Scizor,"['Swarm', 'Technician', 'Light Metal']",150,Pincer Pokémon,1.8,70,50.0,75,bug,steel,118.0,2,0
+212,Shuckle,"['Sturdy', 'Gluttony', 'Contrary']",10,Mold Pokémon,0.6,20,50.0,5,bug,rock,20.5,2,0
+213,Heracross,"['Swarm', 'Guts', 'Moxie']",185,Singlehorn Pokémon,1.5,80,50.0,75,bug,fighting,54.0,2,0
+214,Sneasel,"['Inner Focus', 'Keen Eye', 'Pickpocket']",95,Sharp Claw Pokémon,0.9,55,50.0,115,dark,ice,28.0,2,0
+215,Teddiursa,"['Pickup', 'Quick Feet', 'Honey Gather']",80,Little Bear Pokémon,0.6,60,50.0,40,normal,,8.8,2,0
+216,Ursaring,"['Guts', 'Quick Feet', 'Unnerve']",130,Hibernator Pokémon,1.8,90,50.0,55,normal,,125.8,2,0
+217,Slugma,"['Magma Armor', 'Flame Body', 'Weak Armor']",40,Lava Pokémon,0.7,40,50.0,20,fire,,35.0,2,0
+218,Magcargo,"['Magma Armor', 'Flame Body', 'Weak Armor']",50,Lava Pokémon,0.8,60,50.0,30,fire,rock,55.0,2,0
+219,Swinub,"['Oblivious', 'Snow Cloak', 'Thick Fat']",50,Pig Pokémon,0.4,50,50.0,50,ice,ground,6.5,2,0
+220,Piloswine,"['Oblivious', 'Snow Cloak', 'Thick Fat']",100,Swine Pokémon,1.1,100,50.0,50,ice,ground,55.8,2,0
+221,Corsola,"['Hustle', 'Natural Cure', 'Regenerator']",55,Coral Pokémon,0.6,65,24.6,35,water,rock,5.0,2,0
+222,Remoraid,"['Hustle', 'Sniper', 'Moody']",65,Jet Pokémon,0.6,35,50.0,65,water,,12.0,2,0
+223,Octillery,"['Suction Cups', 'Sniper', 'Moody']",105,Jet Pokémon,0.9,75,50.0,45,water,,28.5,2,0
+224,Delibird,"['Vital Spirit', 'Hustle', 'Insomnia']",55,Delivery Pokémon,0.9,45,50.0,75,ice,flying,16.0,2,0
+225,Mantine,"['Swift Swim', 'Water Absorb', 'Water Veil']",40,Kite Pokémon,2.1,85,50.0,70,water,flying,220.0,2,0
+226,Skarmory,"['Keen Eye', 'Sturdy', 'Weak Armor']",80,Armor Bird Pokémon,1.7,65,50.0,70,steel,flying,50.5,2,0
+227,Houndour,"['Early Bird', 'Flash Fire', 'Unnerve']",60,Dark Pokémon,0.6,45,50.0,65,dark,fire,10.8,2,0
+228,Houndoom,"['Early Bird', 'Flash Fire', 'Unnerve']",90,Dark Pokémon,1.4,75,50.0,115,dark,fire,35.0,2,0
+229,Kingdra,"['Swift Swim', 'Sniper', 'Damp']",95,Dragon Pokémon,1.8,75,50.0,85,water,dragon,152.0,2,0
+230,Phanpy,"['Pickup', 'Sand Veil']",60,Long Nose Pokémon,0.5,90,50.0,40,ground,,33.5,2,0
+231,Donphan,"['Sturdy', 'Sand Veil']",120,Armor Pokémon,1.1,90,50.0,50,ground,,120.0,2,0
+232,Porygon2,"['Trace', 'Download', 'Analytic']",80,Virtual Pokémon,0.6,85,,60,normal,,32.5,2,0
+233,Stantler,"['Intimidate', 'Frisk', 'Sap Sipper']",95,Big Horn Pokémon,1.4,73,50.0,85,normal,,71.2,2,0
+234,Smeargle,"['Own Tempo', 'Technician', 'Moody']",20,Painter Pokémon,1.2,55,50.0,75,normal,,58.0,2,0
+235,Tyrogue,"['Guts', 'Steadfast', 'Vital Spirit']",35,Scuffle Pokémon,0.7,35,100.0,35,fighting,,21.0,2,0
+236,Hitmontop,"['Intimidate', 'Technician', 'Steadfast']",95,Handstand Pokémon,1.4,50,100.0,70,fighting,,48.0,2,0
+237,Smoochum,"['Oblivious', 'Forewarn', 'Hydration']",30,Kiss Pokémon,0.4,45,0.0,65,ice,psychic,6.0,2,0
+238,Elekid,"['Static', 'Vital Spirit']",63,Electric Pokémon,0.6,45,75.4,95,electric,,23.5,2,0
+239,Magby,"['Flame Body', 'Vital Spirit']",75,Live Coal Pokémon,0.7,45,75.4,83,fire,,21.4,2,0
+240,Miltank,"['Thick Fat', 'Scrappy', 'Sap Sipper']",80,Milk Cow Pokémon,1.2,95,0.0,100,normal,,75.5,2,0
+241,Blissey,"['Natural Cure', 'Serene Grace', 'Healer']",10,Happiness Pokémon,1.5,255,0.0,55,normal,,46.8,2,0
+242,Raikou,"['Pressure', 'Inner Focus']",85,Thunder Pokémon,1.9,90,,115,electric,,178.0,2,1
+243,Entei,"['Pressure', 'Inner Focus']",115,Volcano Pokémon,2.1,115,,100,fire,,198.0,2,1
+244,Suicune,"['Pressure', 'Inner Focus']",75,Aurora Pokémon,2.0,100,,85,water,,187.0,2,1
+245,Larvitar,"['Guts', 'Sand Veil']",64,Rock Skin Pokémon,0.6,50,50.0,41,rock,ground,72.0,2,0
+246,Pupitar,['Shed Skin'],84,Hard Shell Pokémon,1.2,70,50.0,51,rock,ground,152.0,2,0
+247,Tyranitar,"['Sand Stream', 'Unnerve']",164,Armor Pokémon,2.0,100,50.0,71,rock,dark,202.0,2,0
+248,Lugia,"['Pressure', 'Multiscale']",90,Diving Pokémon,5.2,106,,110,psychic,flying,216.0,2,1
+249,Ho-Oh,"['Pressure', 'Regenerator']",130,Rainbow Pokémon,3.8,106,,90,fire,flying,199.0,2,1
+250,Celebi,['Natural Cure'],100,Time Travel Pokémon,0.6,100,,100,psychic,grass,5.0,2,1
+251,Treecko,"['Overgrow', 'Unburden']",45,Wood Gecko Pokémon,0.5,40,88.1,70,grass,,5.0,3,0
+252,Grovyle,"['Overgrow', 'Unburden']",65,Wood Gecko Pokémon,0.9,50,88.1,95,grass,,21.6,3,0
+253,Sceptile,"['Overgrow', 'Unburden']",110,Forest Pokémon,1.7,70,88.1,145,grass,,52.2,3,0
+254,Torchic,"['Blaze', 'Speed Boost']",60,Chick Pokémon,0.4,45,88.1,45,fire,,2.5,3,0
+255,Combusken,"['Blaze', 'Speed Boost']",85,Young Fowl Pokémon,0.9,60,88.1,55,fire,fighting,19.5,3,0
+256,Blaziken,"['Blaze', 'Speed Boost']",160,Blaze Pokémon,1.9,80,88.1,100,fire,fighting,52.0,3,0
+257,Mudkip,"['Torrent', 'Damp']",70,Mud Fish Pokémon,0.4,50,88.1,40,water,,7.6,3,0
+258,Marshtomp,"['Torrent', 'Damp']",85,Mud Fish Pokémon,0.7,70,88.1,50,water,ground,28.0,3,0
+259,Swampert,"['Torrent', 'Damp']",150,Mud Fish Pokémon,1.5,100,88.1,70,water,ground,81.9,3,0
+260,Poochyena,"['Run Away', 'Quick Feet', 'Rattled']",55,Bite Pokémon,0.5,35,50.0,35,dark,,13.6,3,0
+261,Mightyena,"['Intimidate', 'Quick Feet', 'Moxie']",90,Bite Pokémon,1.0,70,50.0,70,dark,,37.0,3,0
+262,Zigzagoon,"['Pickup', 'Gluttony', 'Quick Feet']",30,Tiny Racoon Pokémon,0.4,38,50.0,60,normal,,17.5,3,0
+263,Linoone,"['Pickup', 'Gluttony', 'Quick Feet']",70,Rush Pokémon,0.5,78,50.0,100,normal,,32.5,3,0
+264,Wurmple,"['Shield Dust', 'Run Away']",45,Worm Pokémon,0.3,45,50.0,20,bug,,3.6,3,0
+265,Silcoon,['Shed Skin'],35,Cocoon Pokémon,0.6,50,50.0,15,bug,,10.0,3,0
+266,Beautifly,"['Swarm', 'Rivalry']",70,Butterfly Pokémon,1.0,60,50.0,65,bug,flying,28.4,3,0
+267,Cascoon,['Shed Skin'],35,Cocoon Pokémon,0.7,50,50.0,15,bug,,11.5,3,0
+268,Dustox,"['Shield Dust', 'Compoundeyes']",50,Poison Moth Pokémon,1.2,60,50.0,65,bug,poison,31.6,3,0
+269,Lotad,"['Swift Swim', 'Rain Dish', 'Own Tempo']",30,Water Weed Pokémon,0.5,40,50.0,30,water,grass,2.6,3,0
+270,Lombre,"['Swift Swim', 'Rain Dish', 'Own Tempo']",50,Jolly Pokémon,1.2,60,50.0,50,water,grass,32.5,3,0
+271,Ludicolo,"['Swift Swim', 'Rain Dish', 'Own Tempo']",70,Carefree Pokémon,1.5,80,50.0,70,water,grass,55.0,3,0
+272,Seedot,"['Chlorophyll', 'Early Bird', 'Pickpocket']",40,Acorn Pokémon,0.5,40,50.0,30,grass,,4.0,3,0
+273,Nuzleaf,"['Chlorophyll', 'Early Bird', 'Pickpocket']",70,Wily Pokémon,1.0,70,50.0,60,grass,dark,28.0,3,0
+274,Shiftry,"['Chlorophyll', 'Early Bird', 'Pickpocket']",100,Wickid Pokémon,1.3,90,50.0,80,grass,dark,59.6,3,0
+275,Taillow,"['Guts', 'Scrappy']",55,TinySwallow Pokémon,0.3,40,50.0,85,normal,flying,2.3,3,0
+276,Swellow,"['Guts', 'Scrappy']",85,Swallow Pokémon,0.7,60,50.0,125,normal,flying,19.8,3,0
+277,Wingull,"['Keen Eye', 'Hydration', 'Rain Dish']",30,Seagull Pokémon,0.6,40,50.0,85,water,flying,9.5,3,0
+278,Pelipper,"['Keen Eye', 'Drizzle', 'Rain Dish']",50,Water Bird Pokémon,1.2,60,50.0,65,water,flying,28.0,3,0
+279,Ralts,"['Synchronize', 'Trace', 'Telepathy']",25,Feeling Pokémon,0.4,28,50.0,40,psychic,fairy,6.6,3,0
+280,Kirlia,"['Synchronize', 'Trace', 'Telepathy']",35,Emotion Pokémon,0.8,38,50.0,50,psychic,fairy,20.2,3,0
+281,Gardevoir,"['Synchronize', 'Trace', 'Telepathy']",85,Embrace Pokémon,1.6,68,50.0,100,psychic,fairy,48.4,3,0
+282,Surskit,"['Swift Swim', 'Rain Dish']",30,Pond Skater Pokémon,0.5,40,50.0,65,bug,water,1.7,3,0
+283,Masquerain,"['Intimidate', 'Unnerve']",60,Eyeball Pokémon,0.8,70,50.0,80,bug,flying,3.6,3,0
+284,Shroomish,"['Effect Spore', 'Poison Heal', 'Quick Feet']",40,Mushroom Pokémon,0.4,60,50.0,35,grass,,4.5,3,0
+285,Breloom,"['Effect Spore', 'Poison Heal', 'Technician']",130,Mushroom Pokémon,1.2,60,50.0,70,grass,fighting,39.2,3,0
+286,Slakoth,['Truant'],60,Slacker Pokémon,0.8,60,50.0,30,normal,,24.0,3,0
+287,Vigoroth,['Vital Spirit'],80,Wild Monkey Pokémon,1.4,80,50.0,90,normal,,46.5,3,0
+288,Slaking,['Truant'],160,Lazy Pokémon,2.0,150,50.0,100,normal,,130.5,3,0
+289,Nincada,"['Compoundeyes', 'Run Away']",45,Trainee Pokémon,0.5,31,50.0,40,bug,ground,5.5,3,0
+290,Ninjask,"['Speed Boost', 'Infiltrator']",90,Ninja Pokémon,0.8,61,50.0,160,bug,flying,12.0,3,0
+291,Shedinja,['Wonder Guard'],90,Shed Pokémon,0.8,1,,40,bug,ghost,1.2,3,0
+292,Whismur,"['Soundproof', 'Rattled']",51,Whisper Pokémon,0.6,64,50.0,28,normal,,16.3,3,0
+293,Loudred,"['Soundproof', 'Scrappy']",71,Big Voice Pokémon,1.0,84,50.0,48,normal,,40.5,3,0
+294,Exploud,"['Soundproof', 'Scrappy']",91,Loud Noise Pokémon,1.5,104,50.0,68,normal,,84.0,3,0
+295,Makuhita,"['Thick Fat', 'Guts', 'Sheer Force']",60,Guts Pokémon,1.0,72,75.4,25,fighting,,86.4,3,0
+296,Hariyama,"['Thick Fat', 'Guts', 'Sheer Force']",120,Arm Thrust Pokémon,2.3,144,75.4,50,fighting,,253.8,3,0
+297,Azurill,"['Thick Fat', 'Huge Power', 'Sap Sipper']",20,Polka Dot Pokémon,0.2,50,24.6,20,normal,fairy,2.0,3,0
+298,Nosepass,"['Sturdy', 'Magnet Pull', 'Sand Force']",45,Compass Pokémon,1.0,30,50.0,30,rock,,97.0,3,0
+299,Skitty,"['Cute Charm', 'Normalize', 'Wonder Skin ']",45,Kitten Pokémon,0.6,50,24.6,50,normal,,11.0,3,0
+300,Delcatty,"['Cute Charm', 'Normalize', 'Wonder Skin ']",65,Prim Pokémon,1.1,70,24.6,90,normal,,32.6,3,0
+301,Sableye,"['Keen Eye', 'Stall', 'Prankster']",85,Darkness Pokémon,0.5,50,50.0,20,dark,ghost,11.0,3,0
+302,Mawile,"['Hyper Cutter', 'Intimidate', 'Sheer Force']",105,Deceiver Pokémon,0.6,50,50.0,50,steel,fairy,11.5,3,0
+303,Aron,"['Sturdy', 'Rock Head', 'Heavy Metal']",70,Iron Armor Pokémon,0.4,50,50.0,30,steel,rock,60.0,3,0
+304,Lairon,"['Sturdy', 'Rock Head', 'Heavy Metal']",90,Iron Armor Pokémon,0.9,60,50.0,40,steel,rock,120.0,3,0
+305,Aggron,"['Sturdy', 'Rock Head', 'Heavy Metal']",140,Iron Armor Pokémon,2.1,70,50.0,50,steel,rock,360.0,3,0
+306,Meditite,"['Pure Power', 'Telepathy']",40,Meditate Pokémon,0.6,30,50.0,60,fighting,psychic,11.2,3,0
+307,Medicham,"['Pure Power', 'Telepathy']",100,Meditate Pokémon,1.3,60,50.0,100,fighting,psychic,31.5,3,0
+308,Electrike,"['Static', 'Lightningrod', 'Minus']",45,Lightning Pokémon,0.6,40,50.0,65,electric,,15.2,3,0
+309,Manectric,"['Static', 'Lightningrod', 'Minus']",75,Discharge Pokémon,1.5,70,50.0,135,electric,,40.2,3,0
+310,Plusle,"['Plus', 'Lightningrod']",50,Cheering Pokémon,0.4,60,50.0,95,electric,,4.2,3,0
+311,Minun,"['Minus', 'Volt Absorb']",40,Cheering Pokémon,0.4,60,50.0,95,electric,,4.2,3,0
+312,Volbeat,"['Illuminate', 'Swarm', 'Prankster']",73,Firefly Pokémon,0.7,65,100.0,85,bug,,17.7,3,0
+313,Illumise,"['Oblivious', 'Tinted Lens', 'Prankster']",47,Firefly Pokémon,0.6,65,0.0,85,bug,,17.7,3,0
+314,Roselia,"['Natural Cure', 'Poison Point', 'Leaf Guard']",60,Thorn Pokémon,0.3,50,50.0,65,grass,poison,2.0,3,0
+315,Gulpin,"['Liquid Ooze', 'Sticky Hold', 'Gluttony']",43,Stomach Pokémon,0.4,70,50.0,40,poison,,10.3,3,0
+316,Swalot,"['Liquid Ooze', 'Sticky Hold', 'Gluttony']",73,Poison Bag Pokémon,1.7,100,50.0,55,poison,,80.0,3,0
+317,Carvanha,"['Rough Skin', 'Speed Boost']",90,Savage Pokémon,0.8,45,50.0,65,water,dark,20.8,3,0
+318,Sharpedo,"['Rough Skin', 'Speed Boost']",140,Brutal Pokémon,1.8,70,50.0,105,water,dark,88.8,3,0
+319,Wailmer,"['Water Veil', 'Oblivious', 'Pressure']",70,Ball Whale Pokémon,2.0,130,50.0,60,water,,130.0,3,0
+320,Wailord,"['Water Veil', 'Oblivious', 'Pressure']",90,Float Whale Pokémon,14.5,170,50.0,60,water,,398.0,3,0
+321,Numel,"['Oblivious', 'Simple', 'Own Tempo']",60,Numb Pokémon,0.7,60,50.0,35,fire,ground,24.0,3,0
+322,Camerupt,"['Magma Armor', 'Solid Rock', 'Anger Point']",120,Eruption Pokémon,1.9,70,50.0,20,fire,ground,220.0,3,0
+323,Torkoal,"['White Smoke', 'Drought', 'Shell Armor']",85,Coal Pokémon,0.5,70,50.0,20,fire,,80.4,3,0
+324,Spoink,"['Thick Fat', 'Own Tempo', 'Gluttony']",25,Bounce Pokémon,0.7,60,50.0,60,psychic,,30.6,3,0
+325,Grumpig,"['Thick Fat', 'Own Tempo', 'Gluttony']",45,Manipulate Pokémon,0.9,80,50.0,80,psychic,,71.5,3,0
+326,Spinda,"['Own Tempo', 'Tangled Feet', 'Contrary']",60,Spot Panda Pokémon,1.1,60,50.0,60,normal,,5.0,3,0
+327,Trapinch,"['Hyper Cutter', 'Arena Trap', 'Sheer Force']",100,Ant Pit Pokémon,0.7,45,50.0,10,ground,,15.0,3,0
+328,Vibrava,['Levitate'],70,Vibration Pokémon,1.1,50,50.0,70,ground,dragon,15.3,3,0
+329,Flygon,['Levitate'],100,Mystic Pokémon,2.0,80,50.0,100,ground,dragon,82.0,3,0
+330,Cacnea,"['Sand Veil', 'Water Absorb']",85,Cactus Pokémon,0.4,50,50.0,35,grass,,51.3,3,0
+331,Cacturne,"['Sand Veil', 'Water Absorb']",115,Scarecrow Pokémon,1.3,70,50.0,55,grass,dark,77.4,3,0
+332,Swablu,"['Natural Cure', 'Cloud Nine']",40,Cotton Bird Pokémon,0.4,45,50.0,50,normal,flying,1.2,3,0
+333,Altaria,"['Natural Cure', 'Cloud Nine']",110,Humming Pokémon,1.1,75,50.0,80,dragon,flying,20.6,3,0
+334,Zangoose,"['Immunity', 'Toxic Boost']",115,Cat Ferret Pokémon,1.3,73,50.0,90,normal,,40.3,3,0
+335,Seviper,"['Shed Skin', 'Infiltrator']",100,Fang Snake Pokémon,2.7,73,50.0,65,poison,,52.5,3,0
+336,Lunatone,['Levitate'],55,Meteorite Pokémon,1.0,90,,70,rock,psychic,168.0,3,0
+337,Solrock,['Levitate'],95,Meteorite Pokémon,1.2,90,,70,rock,psychic,154.0,3,0
+338,Barboach,"['Oblivious', 'Anticipation', 'Hydration']",48,Whiskers Pokémon,0.4,50,50.0,60,water,ground,1.9,3,0
+339,Whiscash,"['Oblivious', 'Anticipation', 'Hydration']",78,Whiskers Pokémon,0.9,110,50.0,60,water,ground,23.6,3,0
+340,Corphish,"['Hyper Cutter', 'Shell Armor', 'Adaptability']",80,Ruffian Pokémon,0.6,43,50.0,35,water,,11.5,3,0
+341,Crawdaunt,"['Hyper Cutter', 'Shell Armor', 'Adaptability']",120,Rogue Pokémon,1.1,63,50.0,55,water,dark,32.8,3,0
+342,Baltoy,['Levitate'],40,Clay Doll Pokémon,0.5,40,,55,ground,psychic,21.5,3,0
+343,Claydol,['Levitate'],70,Clay Doll Pokémon,1.5,60,,75,ground,psychic,108.0,3,0
+344,Lileep,"['Suction Cups', 'Storm Drain']",41,Sea Lily Pokémon,1.0,66,88.1,23,rock,grass,23.8,3,0
+345,Cradily,"['Suction Cups', 'Storm Drain']",81,Barnacle Pokémon,1.5,86,88.1,43,rock,grass,60.4,3,0
+346,Anorith,"['Battle Armor', 'Swift Swim']",95,Old Shrimp Pokémon,0.7,45,88.1,75,rock,bug,12.5,3,0
+347,Armaldo,"['Battle Armor', 'Swift Swim']",125,Plate Pokémon,1.5,75,88.1,45,rock,bug,68.2,3,0
+348,Feebas,"['Swift Swim', 'Oblivious', 'Adaptability']",15,Fish Pokémon,0.6,20,50.0,80,water,,7.4,3,0
+349,Milotic,"['Marvel Scale', 'Competitive', 'Cute Charm']",60,Tender Pokémon,6.2,95,50.0,81,water,,162.0,3,0
+350,Castform,['Forecast'],70,Weather Pokémon,0.3,70,50.0,70,normal,,0.8,3,0
+351,Kecleon,"['Color Change', 'Protean']",90,Color Swap Pokémon,1.0,60,50.0,40,normal,,22.0,3,0
+352,Shuppet,"['Insomnia', 'Frisk', 'Cursed Body']",75,Puppet Pokémon,0.6,44,50.0,45,ghost,,2.3,3,0
+353,Banette,"['Insomnia', 'Frisk', 'Cursed Body']",165,Marionette Pokémon,1.1,64,50.0,75,ghost,,12.5,3,0
+354,Duskull,"['Levitate', 'Frisk']",40,Requiem Pokémon,0.8,20,50.0,25,ghost,,15.0,3,0
+355,Dusclops,"['Pressure', 'Frisk']",70,Beckon Pokémon,1.6,40,50.0,25,ghost,,30.6,3,0
+356,Tropius,"['Chlorophyll', 'Solar Power', 'Harvest']",68,Fruit Pokémon,2.0,99,50.0,51,grass,flying,100.0,3,0
+357,Chimecho,['Levitate'],50,Wind Chime Pokémon,0.6,75,50.0,65,psychic,,1.0,3,0
+358,Absol,"['Pressure', 'Super Luck', 'Justified']",150,Disaster Pokémon,1.2,65,50.0,115,dark,,47.0,3,0
+359,Wynaut,"['Shadow Tag', 'Telepathy']",23,Bright Pokémon,0.6,95,50.0,23,psychic,,14.0,3,0
+360,Snorunt,"['Inner Focus', 'Ice Body', 'Moody']",50,Snow Hat Pokémon,0.7,50,50.0,50,ice,,16.8,3,0
+361,Glalie,"['Inner Focus', 'Ice Body', 'Moody']",120,Face Pokémon,1.5,80,50.0,100,ice,,256.5,3,0
+362,Spheal,"['Thick Fat', 'Ice Body', 'Oblivious']",40,Clap Pokémon,0.8,70,50.0,25,ice,water,39.5,3,0
+363,Sealeo,"['Thick Fat', 'Ice Body', 'Oblivious']",60,Ball Roll Pokémon,1.1,90,50.0,45,ice,water,87.6,3,0
+364,Walrein,"['Thick Fat', 'Ice Body', 'Oblivious']",80,Ice Break Pokémon,1.4,110,50.0,65,ice,water,150.6,3,0
+365,Clamperl,"['Shell Armor', 'Rattled']",64,Bivalve Pokémon,0.4,35,50.0,32,water,,52.5,3,0
+366,Huntail,"['Swift Swim', 'Water Veil']",104,Deep Sea Pokémon,1.7,55,50.0,52,water,,27.0,3,0
+367,Gorebyss,"['Swift Swim', 'Hydration']",84,South Sea Pokémon,1.8,55,50.0,52,water,,22.6,3,0
+368,Relicanth,"['Swift Swim', 'Rock Head', 'Sturdy']",90,Longevity Pokémon,1.0,100,88.1,55,water,rock,23.4,3,0
+369,Luvdisc,"['Swift Swim', 'Hydration']",30,Rendezvous Pokémon,0.6,43,24.6,97,water,,8.7,3,0
+370,Bagon,"['Rock Head', 'Sheer Force']",75,Rock Head Pokémon,0.6,45,50.0,50,dragon,,42.1,3,0
+371,Shelgon,"['Rock Head', 'Overcoat']",95,Endurance Pokémon,1.1,65,50.0,50,dragon,,110.5,3,0
+372,Salamence,"['Intimidate', 'Moxie']",145,Dragon Pokémon,1.5,95,50.0,120,dragon,flying,102.6,3,0
+373,Beldum,"['Clear Body', 'Light Metal']",55,Iron Ball Pokémon,0.6,40,,30,steel,psychic,95.2,3,0
+374,Metang,"['Clear Body', 'Light Metal']",75,Iron Claw Pokémon,1.2,60,,50,steel,psychic,202.5,3,0
+375,Metagross,"['Clear Body', 'Light Metal']",145,Iron Leg Pokémon,1.6,80,,110,steel,psychic,550.0,3,0
+376,Regirock,"['Clear Body', 'Sturdy']",100,Rock Peak Pokémon,1.7,80,,50,rock,,230.0,3,1
+377,Regice,"['Clear Body', 'Ice Body']",50,Iceberg Pokémon,1.8,80,,50,ice,,175.0,3,1
+378,Registeel,"['Clear Body', 'Light Metal']",75,Iron Pokémon,1.9,80,,50,steel,,205.0,3,1
+379,Latias,['Levitate'],100,Eon Pokémon,1.4,80,0.0,110,dragon,psychic,40.0,3,1
+380,Latios,['Levitate'],130,Eon Pokémon,2.0,80,100.0,110,dragon,psychic,60.0,3,1
+381,Kyogre,['Drizzle'],150,Sea Basin Pokémon,4.5,100,,90,water,,352.0,3,1
+382,Groudon,['Drought'],180,Continent Pokémon,3.5,100,,90,ground,,950.0,3,1
+383,Rayquaza,['Air Lock'],180,Sky High Pokémon,7.0,105,,115,dragon,flying,206.5,3,1
+384,Jirachi,['Serene Grace'],100,Wish Pokémon,0.3,100,,100,steel,psychic,1.1,3,1
+385,Deoxys,['Pressure'],95,DNA Pokémon,1.7,50,,180,psychic,,60.8,3,1
+386,Turtwig,"['Overgrow', 'Shell Armor']",68,Tiny Leaf Pokémon,0.4,55,88.1,31,grass,,10.2,4,0
+387,Grotle,"['Overgrow', 'Shell Armor']",89,Grove Pokémon,1.1,75,88.1,36,grass,,97.0,4,0
+388,Torterra,"['Overgrow', 'Shell Armor']",109,Continent Pokémon,2.2,95,88.1,56,grass,ground,310.0,4,0
+389,Chimchar,"['Blaze', 'Iron Fist']",58,Chimp Pokémon,0.5,44,88.1,61,fire,,6.2,4,0
+390,Monferno,"['Blaze', 'Iron Fist']",78,Playful Pokémon,0.9,64,88.1,81,fire,fighting,22.0,4,0
+391,Infernape,"['Blaze', 'Iron Fist']",104,Flame Pokémon,1.2,76,88.1,108,fire,fighting,55.0,4,0
+392,Piplup,"['Torrent', 'Defiant']",51,Penguin Pokémon,0.4,53,88.1,40,water,,5.2,4,0
+393,Prinplup,"['Torrent', 'Defiant']",66,Penguin Pokémon,0.8,64,88.1,50,water,,23.0,4,0
+394,Empoleon,"['Torrent', 'Defiant']",86,Emperor Pokémon,1.7,84,88.1,60,water,steel,84.5,4,0
+395,Starly,"['Keen Eye', 'Reckless']",55,Starling Pokémon,0.3,40,50.0,60,normal,flying,2.0,4,0
+396,Staravia,"['Intimidate', 'Reckless']",75,Starling Pokémon,0.6,55,50.0,80,normal,flying,15.5,4,0
+397,Staraptor,"['Intimidate', 'Reckless']",120,Predator Pokémon,1.2,85,50.0,100,normal,flying,24.9,4,0
+398,Bidoof,"['Simple', 'Unaware', 'Moody']",45,Plump Mouse Pokémon,0.5,59,50.0,31,normal,,20.0,4,0
+399,Bibarel,"['Simple', 'Unaware', 'Moody']",85,Beaver Pokémon,1.0,79,50.0,71,normal,water,31.5,4,0
+400,Kricketot,"['Shed Skin', 'Run Away']",25,Cricket Pokémon,0.3,37,50.0,25,bug,,2.2,4,0
+401,Kricketune,"['Swarm', 'Technician']",85,Cricket Pokémon,1.0,77,50.0,65,bug,,25.5,4,0
+402,Shinx,"['Rivalry', 'Intimidate', 'Guts']",65,Flash Pokémon,0.5,45,50.0,45,electric,,9.5,4,0
+403,Luxio,"['Rivalry', 'Intimidate', 'Guts']",85,Spark Pokémon,0.9,60,50.0,60,electric,,30.5,4,0
+404,Luxray,"['Rivalry', 'Intimidate', 'Guts']",120,Gleam Eyes Pokémon,1.4,80,50.0,70,electric,,42.0,4,0
+405,Budew,"['Natural Cure', 'Poison Point', 'Leaf Guard']",30,Bud Pokémon,0.2,40,50.0,55,grass,poison,1.2,4,0
+406,Roserade,"['Natural Cure', 'Poison Point', 'Technician']",70,Bouquet Pokémon,0.9,60,50.0,90,grass,poison,14.5,4,0
+407,Cranidos,"['Mold Breaker', 'Sheer Force']",125,Head Butt Pokémon,0.9,67,88.1,58,rock,,31.5,4,0
+408,Rampardos,"['Mold Breaker', 'Sheer Force']",165,Head Butt Pokémon,1.6,97,88.1,58,rock,,102.5,4,0
+409,Shieldon,"['Sturdy', 'Soundproof']",42,Shield Pokémon,0.5,30,88.1,30,rock,steel,57.0,4,0
+410,Bastiodon,"['Sturdy', 'Soundproof']",52,Shield Pokémon,1.3,60,88.1,30,rock,steel,149.5,4,0
+411,Burmy,"['Shed Skin', 'Overcoat']",29,Bagworm Pokémon,0.2,40,50.0,36,bug,,3.4,4,0
+412,Wormadam,"['Anticipation', 'Overcoat']",69,Bagworm Pokémon,0.5,60,0.0,36,bug,grass,6.5,4,0
+413,Mothim,"['Swarm', 'Tinted Lens']",94,Moth Pokémon,0.9,70,100.0,66,bug,flying,23.3,4,0
+414,Combee,"['Honey Gather', 'Hustle']",30,Tiny Bee Pokémon,0.3,30,88.1,70,bug,flying,5.5,4,0
+415,Vespiquen,"['Pressure', 'Unnerve']",80,Beehive Pokémon,1.2,70,0.0,40,bug,flying,38.5,4,0
+416,Pachirisu,"['Run Away', 'Pickup', 'Volt Absorb']",45,EleSquirrel Pokémon,0.4,60,50.0,95,electric,,3.9,4,0
+417,Buizel,"['Swift Swim', 'Water Veil']",65,Sea Weasel Pokémon,0.7,55,50.0,85,water,,29.5,4,0
+418,Floatzel,"['Swift Swim', 'Water Veil']",105,Sea Weasel Pokémon,1.1,85,50.0,115,water,,33.5,4,0
+419,Cherubi,['Chlorophyll'],35,Cherry Pokémon,0.4,45,50.0,35,grass,,3.3,4,0
+420,Cherrim,['Flower Gift'],60,Blossom Pokémon,0.5,70,50.0,85,grass,,9.3,4,0
+421,Shellos,"['Sticky Hold', 'Storm Drain', 'Sand Force']",48,Sea Slug Pokémon,0.3,76,50.0,34,water,,6.3,4,0
+422,Gastrodon,"['Sticky Hold', 'Storm Drain', 'Sand Force']",83,Sea Slug Pokémon,0.9,111,50.0,39,water,ground,29.9,4,0
+423,Ambipom,"['Technician', 'Pickup', 'Skill Link']",100,Long Tail Pokémon,1.2,75,50.0,115,normal,,20.3,4,0
+424,Drifloon,"['Aftermath', 'Unburden', 'Flare Boost']",50,Balloon Pokémon,0.4,90,50.0,70,ghost,flying,1.2,4,0
+425,Drifblim,"['Aftermath', 'Unburden', 'Flare Boost']",80,Blimp Pokémon,1.2,150,50.0,80,ghost,flying,15.0,4,0
+426,Buneary,"['Run Away', 'Klutz', 'Limber']",66,Rabbit Pokémon,0.4,55,50.0,85,normal,,5.5,4,0
+427,Lopunny,"['Cute Charm', 'Klutz', 'Limber']",136,Rabbit Pokémon,1.2,65,50.0,135,normal,,33.3,4,0
+428,Mismagius,['Levitate'],60,Magical Pokémon,0.9,60,50.0,105,ghost,,4.4,4,0
+429,Honchkrow,"['Insomnia', 'Super Luck', 'Moxie']",125,Big Boss Pokémon,0.9,100,50.0,71,dark,flying,27.3,4,0
+430,Glameow,"['Limber', 'Own Tempo', 'Keen Eye']",55,Catty Pokémon,0.5,49,24.6,85,normal,,3.9,4,0
+431,Purugly,"['Thick Fat', 'Own Tempo', 'Defiant']",82,Tiger Cat Pokémon,1.0,71,24.6,112,normal,,43.8,4,0
+432,Chingling,['Levitate'],30,Bell Pokémon,0.2,45,50.0,45,psychic,,0.6,4,0
+433,Stunky,"['Stench', 'Aftermath', 'Keen Eye']",63,Skunk Pokémon,0.4,63,50.0,74,poison,dark,19.2,4,0
+434,Skuntank,"['Stench', 'Aftermath', 'Keen Eye']",93,Skunk Pokémon,1.0,103,50.0,84,poison,dark,38.0,4,0
+435,Bronzor,"['Levitate', 'Heatproof', 'Heavy Metal']",24,Bronze Pokémon,0.5,57,,23,steel,psychic,60.5,4,0
+436,Bronzong,"['Levitate', 'Heatproof', 'Heavy Metal']",89,Bronze Bell Pokémon,1.3,67,,33,steel,psychic,187.0,4,0
+437,Bonsly,"['Sturdy', 'Rock Head', 'Rattled']",80,Bonsai Pokémon,0.5,50,50.0,10,rock,,15.0,4,0
+438,Mime Jr.,"['Soundproof', 'Filter', 'Technician']",25,Mime Pokémon,0.6,20,50.0,60,psychic,fairy,13.0,4,0
+439,Happiny,"['Natural Cure', 'Serene Grace', 'Friend Guard']",5,Playhouse Pokémon,0.6,100,0.0,30,normal,,24.4,4,0
+440,Chatot,"['Keen Eye', 'Tangled Feet', 'Big Pecks']",65,Music Note Pokémon,0.5,76,50.0,91,normal,flying,1.9,4,0
+441,Spiritomb,"['Pressure', 'Infiltrator']",92,Forbidden Pokémon,1.0,50,50.0,35,ghost,dark,108.0,4,0
+442,Gible,"['Sand Veil', 'Rough Skin']",70,Land Shark Pokémon,0.7,58,50.0,42,dragon,ground,20.5,4,0
+443,Gabite,"['Sand Veil', 'Rough Skin']",90,Cave Pokémon,1.4,68,50.0,82,dragon,ground,56.0,4,0
+444,Garchomp,"['Sand Veil', 'Rough Skin']",170,Mach Pokémon,1.9,108,50.0,92,dragon,ground,95.0,4,0
+445,Munchlax,"['Pickup', 'Thick Fat', 'Gluttony']",85,Big Eater Pokémon,0.6,135,88.1,5,normal,,105.0,4,0
+446,Riolu,"['Steadfast', 'Inner Focus', 'Prankster']",70,Emanation Pokémon,0.7,40,88.1,60,fighting,,20.2,4,0
+447,Lucario,"['Steadfast', 'Inner Focus', 'Justified']",145,Aura Pokémon,1.2,70,88.1,112,fighting,steel,54.0,4,0
+448,Hippopotas,"['Sand Stream', 'Sand Force']",72,Hippo Pokémon,0.8,68,50.0,32,ground,,49.5,4,0
+449,Hippowdon,"['Sand Stream', 'Sand Force']",112,Heavyweight Pokémon,2.0,108,50.0,47,ground,,300.0,4,0
+450,Skorupi,"['Battle Armor', 'Sniper', 'Keen Eye']",50,Scorpion Pokémon,0.8,40,50.0,65,poison,bug,12.0,4,0
+451,Drapion,"['Battle Armor', 'Sniper', 'Keen Eye']",90,Ogre Scorp Pokémon,1.3,70,50.0,95,poison,dark,61.5,4,0
+452,Croagunk,"['Anticipation', 'Dry Skin', 'Poison Touch']",61,Toxic Mouth Pokémon,0.7,48,50.0,50,poison,fighting,23.0,4,0
+453,Toxicroak,"['Anticipation', 'Dry Skin', 'Poison Touch']",106,Toxic Mouth Pokémon,1.3,83,50.0,85,poison,fighting,44.4,4,0
+454,Carnivine,['Levitate'],100,Bug Catcher Pokémon,1.4,74,50.0,46,grass,,27.0,4,0
+455,Finneon,"['Swift Swim', 'Storm Drain', 'Water Veil']",49,Wing Fish Pokémon,0.4,49,50.0,66,water,,7.0,4,0
+456,Lumineon,"['Swift Swim', 'Storm Drain', 'Water Veil']",69,Neon Pokémon,1.2,69,50.0,91,water,,24.0,4,0
+457,Mantyke,"['Swift Swim', 'Water Absorb', 'Water Veil']",20,Kite Pokémon,1.0,45,50.0,50,water,flying,65.0,4,0
+458,Snover,"['Snow Warning', 'Soundproof']",62,Frosted Tree Pokémon,1.0,60,50.0,40,grass,ice,50.5,4,0
+459,Abomasnow,"['Snow Warning', 'Soundproof']",132,Frosted Tree Pokémon,2.2,90,50.0,30,grass,ice,135.5,4,0
+460,Weavile,"['Pressure', 'Pickpocket']",120,Sharp Claw Pokémon,1.1,70,50.0,125,dark,ice,34.0,4,0
+461,Magnezone,"['Magnet Pull', 'Sturdy', 'Analytic']",70,Magnet Area Pokémon,1.2,70,,60,electric,steel,180.0,4,0
+462,Lickilicky,"['Own Tempo', 'Oblivious', 'Cloud Nine']",85,Licking Pokémon,1.7,110,50.0,50,normal,,140.0,4,0
+463,Rhyperior,"['Lightningrod', 'Solid Rock', 'Reckless']",140,Drill Pokémon,2.4,115,50.0,40,ground,rock,282.8,4,0
+464,Tangrowth,"['Chlorophyll', 'Leaf Guard', 'Regenerator']",100,Vine Pokémon,2.0,100,50.0,50,grass,,128.6,4,0
+465,Electivire,"['Motor Drive', 'Vital Spirit']",123,Thunderbolt Pokémon,1.8,75,75.4,95,electric,,138.6,4,0
+466,Magmortar,"['Flame Body', 'Vital Spirit']",95,Blast Pokémon,1.6,75,75.4,83,fire,,68.0,4,0
+467,Togekiss,"['Hustle', 'Serene Grace', 'Super Luck']",50,Jubilee Pokémon,1.5,85,88.1,80,fairy,flying,38.0,4,0
+468,Yanmega,"['Speed Boost', 'Tinted Lens', 'Frisk']",76,Ogre Darner Pokémon,1.9,86,50.0,95,bug,flying,51.5,4,0
+469,Leafeon,"['Leaf Guard', 'Chlorophyll']",110,Verdant Pokémon,1.0,65,88.1,95,grass,,25.5,4,0
+470,Glaceon,"['Snow Cloak', 'Ice Body']",60,Fresh Snow Pokémon,0.8,65,88.1,65,ice,,25.9,4,0
+471,Gliscor,"['Hyper Cutter', 'Sand Veil', 'Poison Heal']",95,Fang Scorp Pokémon,2.0,75,50.0,95,ground,flying,42.5,4,0
+472,Mamoswine,"['Oblivious', 'Snow Cloak', 'Thick Fat']",130,Twin Tusk Pokémon,2.5,110,50.0,80,ice,ground,291.0,4,0
+473,Porygon-Z,"['Adaptability', 'Download', 'Analytic']",80,Virtual Pokémon,0.9,85,,90,normal,,34.0,4,0
+474,Gallade,"['Steadfast', 'Justified']",165,Blade Pokémon,1.6,68,100.0,110,psychic,fighting,52.0,4,0
+475,Probopass,"['Sturdy', 'Magnet Pull', 'Sand Force']",55,Compass Pokémon,1.4,60,50.0,40,rock,steel,340.0,4,0
+476,Dusknoir,"['Pressure', 'Frisk']",100,Gripper Pokémon,2.2,45,50.0,45,ghost,,106.6,4,0
+477,Froslass,"['Snow Cloak', 'Cursed Body']",80,Snow Land Pokémon,1.3,70,0.0,110,ice,ghost,26.6,4,0
+478,Rotom,['Levitate'],65,Plasma Pokémon,0.3,50,,86,electric,ghost,0.3,4,0
+479,Uxie,['Levitate'],75,Knowledge Pokémon,0.3,75,,95,psychic,,0.3,4,1
+480,Mesprit,['Levitate'],105,Emotion Pokémon,0.3,80,,80,psychic,,0.3,4,1
+481,Azelf,['Levitate'],125,Willpower Pokémon,0.3,75,,115,psychic,,0.3,4,1
+482,Dialga,"['Pressure', 'Telepathy']",120,Temporal Pokémon,5.4,100,,90,steel,dragon,683.0,4,1
+483,Palkia,"['Pressure', 'Telepathy']",120,Spatial Pokémon,4.2,90,,100,water,dragon,336.0,4,1
+484,Heatran,"['Flash Fire', 'Flame Body']",90,Lava Dome Pokémon,1.7,91,50.0,77,fire,steel,430.0,4,1
+485,Regigigas,['Slow Start'],160,Colossal Pokémon,3.7,110,,100,normal,,420.0,4,1
+486,Giratina,"['Pressure', 'Telepathy', 'Levitate']",120,Renegade Pokémon,4.5,150,,90,ghost,dragon,750.0,4,1
+487,Cresselia,['Levitate'],70,Lunar Pokémon,1.5,120,0.0,85,psychic,,85.6,4,1
+488,Phione,['Hydration'],80,Sea Drifter Pokémon,0.4,80,,80,water,,3.1,4,0
+489,Manaphy,['Hydration'],100,Seafaring Pokémon,0.3,100,,100,water,,1.4,4,1
+490,Darkrai,['Bad Dreams'],90,Pitch-Black Pokémon,1.5,70,,125,dark,,50.5,4,1
+491,Shaymin,"['Natural Cure', 'Serene Grace']",103,Gratitude Pokémon,0.2,100,,127,grass,grass,2.1,4,1
+492,Arceus,['Multitype'],120,Alpha Pokémon,3.2,120,,120,normal,,320.0,4,1
+493,Victini,['Victory Star'],100,Victory Pokémon,0.4,100,,100,psychic,fire,4.0,5,1
+494,Snivy,"['Overgrow', 'Contrary']",45,Grass Snake Pokémon,0.6,45,88.1,63,grass,,8.1,5,0
+495,Servine,"['Overgrow', 'Contrary']",60,Grass Snake Pokémon,0.8,60,88.1,83,grass,,16.0,5,0
+496,Serperior,"['Overgrow', 'Contrary']",75,Regal Pokémon,3.3,75,88.1,113,grass,,63.0,5,0
+497,Tepig,"['Blaze', 'Thick Fat']",63,Fire Pig Pokémon,0.5,65,88.1,45,fire,,9.9,5,0
+498,Pignite,"['Blaze', 'Thick Fat']",93,Fire Pig Pokémon,1.0,90,88.1,55,fire,fighting,55.5,5,0
+499,Emboar,"['Blaze', 'Reckless']",123,Mega Fire Pig Pokémon,1.6,110,88.1,65,fire,fighting,150.0,5,0
+500,Oshawott,"['Torrent', 'Shell Armor']",55,Sea Otter Pokémon,0.5,55,88.1,45,water,,5.9,5,0
+501,Dewott,"['Torrent', 'Shell Armor']",75,Discipline Pokémon,0.8,75,88.1,60,water,,24.5,5,0
+502,Samurott,"['Torrent', 'Shell Armor']",100,Formidable Pokémon,1.5,95,88.1,70,water,,94.6,5,0
+503,Patrat,"['Run Away', 'Keen Eye', 'Analytic']",55,Scout Pokémon,0.5,45,50.0,42,normal,,11.6,5,0
+504,Watchog,"['Illuminate', 'Keen Eye', 'Analytic']",85,Lookout Pokémon,1.1,60,50.0,77,normal,,27.0,5,0
+505,Lillipup,"['Vital Spirit', 'Pickup', 'Run Away']",60,Puppy Pokémon,0.4,45,50.0,55,normal,,4.1,5,0
+506,Herdier,"['Intimidate', 'Sand Rush', 'Scrappy']",80,Loyal Dog Pokémon,0.9,65,50.0,60,normal,,14.7,5,0
+507,Stoutland,"['Intimidate', 'Sand Rush', 'Scrappy']",110,Big-Hearted Pokémon,1.2,85,50.0,80,normal,,61.0,5,0
+508,Purrloin,"['Limber', 'Unburden', 'Prankster']",50,Devious Pokémon,0.4,41,50.0,66,dark,,10.1,5,0
+509,Liepard,"['Limber', 'Unburden', 'Prankster']",88,Cruel Pokémon,1.1,64,50.0,106,dark,,37.5,5,0
+510,Pansage,"['Gluttony', 'Overgrow']",53,Grass Monkey Pokémon,0.6,50,88.1,64,grass,,10.5,5,0
+511,Simisage,"['Gluttony', 'Overgrow']",98,Thorn Monkey Pokémon,1.1,75,88.1,101,grass,,30.5,5,0
+512,Pansear,"['Gluttony', 'Blaze']",53,High Temp Pokémon,0.6,50,88.1,64,fire,,11.0,5,0
+513,Simisear,"['Gluttony', 'Blaze']",98,Ember Pokémon,1.0,75,88.1,101,fire,,28.0,5,0
+514,Panpour,"['Gluttony', 'Torrent']",53,Spray Pokémon,0.6,50,88.1,64,water,,13.5,5,0
+515,Simipour,"['Gluttony', 'Torrent']",98,Geyser Pokémon,1.0,75,88.1,101,water,,29.0,5,0
+516,Munna,"['Forewarn', 'Synchronize', 'Telepathy']",25,Dream Eater Pokémon,0.6,76,50.0,24,psychic,,23.3,5,0
+517,Musharna,"['Forewarn', 'Synchronize', 'Telepathy']",55,Drowsing Pokémon,1.1,116,50.0,29,psychic,,60.5,5,0
+518,Pidove,"['Big Pecks', 'Super Luck', 'Rivalry']",55,Tiny Pigeon Pokémon,0.3,50,50.0,43,normal,flying,2.1,5,0
+519,Tranquill,"['Big Pecks', 'Super Luck', 'Rivalry']",77,Wild Pigeon Pokémon,0.6,62,50.0,65,normal,flying,15.0,5,0
+520,Unfezant,"['Big Pecks', 'Super Luck', 'Rivalry']",115,Proud Pokémon,1.2,80,50.0,93,normal,flying,29.0,5,0
+521,Blitzle,"['Lightningrod', 'Motor Drive', 'Sap Sipper']",60,Electrified Pokémon,0.8,45,50.0,76,electric,,29.8,5,0
+522,Zebstrika,"['Lightningrod', 'Motor Drive', 'Sap Sipper']",100,Thunderbolt Pokémon,1.6,75,50.0,116,electric,,79.5,5,0
+523,Roggenrola,"['Sturdy', 'Weak Armor', 'Sand Force']",75,Mantle Pokémon,0.4,55,50.0,15,rock,,18.0,5,0
+524,Boldore,"['Sturdy', 'Weak Armor', 'Sand Force']",105,Ore Pokémon,0.9,70,50.0,20,rock,,102.0,5,0
+525,Gigalith,"['Sturdy', 'Sand Stream', 'Sand Force']",135,Compressed Pokémon,1.7,85,50.0,25,rock,,260.0,5,0
+526,Woobat,"['Unaware', 'Klutz', 'Simple']",45,Bat Pokémon,0.4,65,50.0,72,psychic,flying,2.1,5,0
+527,Swoobat,"['Unaware', 'Klutz', 'Simple']",57,Courting Pokémon,0.9,67,50.0,114,psychic,flying,10.5,5,0
+528,Drilbur,"['Sand Rush', 'Sand Force', 'Mold Breaker']",85,Mole Pokémon,0.3,60,50.0,68,ground,,8.5,5,0
+529,Excadrill,"['Sand Rush', 'Sand Force', 'Mold Breaker']",135,Subterrene Pokémon,0.7,110,50.0,88,ground,steel,40.4,5,0
+530,Audino,"['Healer', 'Regenerator', 'Klutz']",60,Hearing Pokémon,1.1,103,50.0,50,normal,,31.0,5,0
+531,Timburr,"['Guts', 'Sheer Force', 'Iron Fist']",80,Muscular Pokémon,0.6,75,75.4,35,fighting,,12.5,5,0
+532,Gurdurr,"['Guts', 'Sheer Force', 'Iron Fist']",105,Muscular Pokémon,1.2,85,75.4,40,fighting,,40.0,5,0
+533,Conkeldurr,"['Guts', 'Sheer Force', 'Iron Fist']",140,Muscular Pokémon,1.4,105,75.4,45,fighting,,87.0,5,0
+534,Tympole,"['Swift Swim', 'Hydration', 'Water Absorb']",50,Tadpole Pokémon,0.5,50,50.0,64,water,,4.5,5,0
+535,Palpitoad,"['Swift Swim', 'Hydration', 'Water Absorb']",65,Vibration Pokémon,0.8,75,50.0,69,water,ground,17.0,5,0
+536,Seismitoad,"['Swift Swim', 'Poison Touch', 'Water Absorb']",95,Vibration Pokémon,1.5,105,50.0,74,water,ground,62.0,5,0
+537,Throh,"['Guts', 'Inner Focus', 'Mold Breaker']",100,Judo Pokémon,1.3,120,100.0,45,fighting,,55.5,5,0
+538,Sawk,"['Sturdy', 'Inner Focus', 'Mold Breaker']",125,Karate Pokémon,1.4,75,100.0,85,fighting,,51.0,5,0
+539,Sewaddle,"['Swarm', 'Chlorophyll', 'Overcoat']",53,Sewing Pokémon,0.3,45,50.0,42,bug,grass,2.5,5,0
+540,Swadloon,"['Leaf Guard', 'Chlorophyll', 'Overcoat']",63,Leaf-Wrapped Pokémon,0.5,55,50.0,42,bug,grass,7.3,5,0
+541,Leavanny,"['Swarm', 'Chlorophyll', 'Overcoat']",103,Nurturing Pokémon,1.2,75,50.0,92,bug,grass,20.5,5,0
+542,Venipede,"['Poison Point', 'Swarm', 'Speed Boost']",45,Centipede Pokémon,0.4,30,50.0,57,bug,poison,5.3,5,0
+543,Whirlipede,"['Poison Point', 'Swarm', 'Speed Boost']",55,Curlipede Pokémon,1.2,40,50.0,47,bug,poison,58.5,5,0
+544,Scolipede,"['Poison Point', 'Swarm', 'Speed Boost']",100,Megapede Pokémon,2.5,60,50.0,112,bug,poison,200.5,5,0
+545,Cottonee,"['Prankster', 'Infiltrator', 'Chlorophyll']",27,Cotton Puff Pokémon,0.3,40,50.0,66,grass,fairy,0.6,5,0
+546,Whimsicott,"['Prankster', 'Infiltrator', 'Chlorophyll']",67,Windveiled Pokémon,0.7,60,50.0,116,grass,fairy,6.6,5,0
+547,Petilil,"['Chlorophyll', 'Own Tempo', 'Leaf Guard']",35,Bulb Pokémon,0.5,45,0.0,30,grass,,6.6,5,0
+548,Lilligant,"['Chlorophyll', 'Own Tempo', 'Leaf Guard']",60,Flowering Pokémon,1.1,70,0.0,90,grass,,16.3,5,0
+549,Basculin,"['Reckless', 'Rock Head', 'Adaptability', 'Mold Breaker']",92,Hostile Pokémon,1.0,70,50.0,98,water,,18.0,5,0
+550,Sandile,"['Intimidate', 'Moxie', 'Anger Point']",72,Desert Croc Pokémon,0.7,50,50.0,65,ground,dark,15.2,5,0
+551,Krokorok,"['Intimidate', 'Moxie', 'Anger Point']",82,Desert Croc Pokémon,1.0,60,50.0,74,ground,dark,33.4,5,0
+552,Krookodile,"['Intimidate', 'Moxie', 'Anger Point']",117,Intimidation Pokémon,1.5,95,50.0,92,ground,dark,96.3,5,0
+553,Darumaka,"['Hustle', 'Inner Focus']",90,Zen Charm Pokémon,0.6,70,50.0,50,fire,,37.5,5,0
+554,Darmanitan,"['Sheer Force', 'Zen Mode']",30,Blazing Pokémon,1.3,105,50.0,55,fire,fire,92.9,5,0
+555,Maractus,"['Water Absorb', 'Chlorophyll', 'Storm Drain']",86,Cactus Pokémon,1.0,75,50.0,60,grass,,28.0,5,0
+556,Dwebble,"['Sturdy', 'Shell Armor', 'Weak Armor']",65,Rock Inn Pokémon,0.3,50,50.0,55,bug,rock,14.5,5,0
+557,Crustle,"['Sturdy', 'Shell Armor', 'Weak Armor']",105,Stone Home Pokémon,1.4,70,50.0,45,bug,rock,200.0,5,0
+558,Scraggy,"['Shed Skin', 'Moxie', 'Intimidate']",75,Shedding Pokémon,0.6,50,50.0,48,dark,fighting,11.8,5,0
+559,Scrafty,"['Shed Skin', 'Moxie', 'Intimidate']",90,Hoodlum Pokémon,1.1,65,50.0,58,dark,fighting,30.0,5,0
+560,Sigilyph,"['Wonder Skin ', 'Magic Guard', 'Tinted Lens']",58,Avianoid Pokémon,1.4,72,50.0,97,psychic,flying,14.0,5,0
+561,Yamask,['Mummy'],30,Spirit Pokémon,0.5,38,50.0,30,ghost,,1.5,5,0
+562,Cofagrigus,['Mummy'],50,Coffin Pokémon,1.7,58,50.0,30,ghost,,76.5,5,0
+563,Tirtouga,"['Solid Rock', 'Sturdy', 'Swift Swim']",78,Prototurtle Pokémon,0.7,54,88.1,22,water,rock,16.5,5,0
+564,Carracosta,"['Solid Rock', 'Sturdy', 'Swift Swim']",108,Prototurtle Pokémon,1.2,74,88.1,32,water,rock,81.0,5,0
+565,Archen,['Defeatist'],112,First Bird Pokémon,0.5,55,88.1,70,rock,flying,9.5,5,0
+566,Archeops,['Defeatist'],140,First Bird Pokémon,1.4,75,88.1,110,rock,flying,32.0,5,0
+567,Trubbish,"['Stench', 'Sticky Hold', 'Aftermath']",50,Trash Bag Pokémon,0.6,50,50.0,65,poison,,31.0,5,0
+568,Garbodor,"['Stench', 'Weak Armor', 'Aftermath']",95,Trash Heap Pokémon,1.9,80,50.0,75,poison,,107.3,5,0
+569,Zorua,['Illusion'],65,Tricky Fox Pokémon,0.7,40,88.1,65,dark,,12.5,5,0
+570,Zoroark,['Illusion'],105,Illusion Fox Pokémon,1.6,60,88.1,105,dark,,81.1,5,0
+571,Minccino,"['Cute Charm', 'Technician', 'Skill Link']",50,Chinchilla Pokémon,0.4,55,24.6,75,normal,,5.8,5,0
+572,Cinccino,"['Cute Charm', 'Technician', 'Skill Link']",95,Scarf Pokémon,0.5,75,24.6,115,normal,,7.5,5,0
+573,Gothita,"['Frisk', 'Competitive', 'Shadow Tag']",30,Fixation Pokémon,0.4,45,24.6,45,psychic,,5.8,5,0
+574,Gothorita,"['Frisk', 'Competitive', 'Shadow Tag']",45,Manipulate Pokémon,0.7,60,24.6,55,psychic,,18.0,5,0
+575,Gothitelle,"['Frisk', 'Competitive', 'Shadow Tag']",55,Astral Body Pokémon,1.5,70,24.6,65,psychic,,44.0,5,0
+576,Solosis,"['Overcoat', 'Magic Guard', 'Regenerator']",30,Cell Pokémon,0.3,45,50.0,20,psychic,,1.0,5,0
+577,Duosion,"['Overcoat', 'Magic Guard', 'Regenerator']",40,Mitosis Pokémon,0.6,65,50.0,30,psychic,,8.0,5,0
+578,Reuniclus,"['Overcoat', 'Magic Guard', 'Regenerator']",65,Multiplying Pokémon,1.0,110,50.0,30,psychic,,20.1,5,0
+579,Ducklett,"['Keen Eye', 'Big Pecks', 'Hydration']",44,Water Bird Pokémon,0.5,62,50.0,55,water,flying,5.5,5,0
+580,Swanna,"['Keen Eye', 'Big Pecks', 'Hydration']",87,White Bird Pokémon,1.3,75,50.0,98,water,flying,24.2,5,0
+581,Vanillite,"['Ice Body', 'Snow Cloak', 'Weak Armor']",50,Fresh Snow Pokémon,0.4,36,50.0,44,ice,,5.7,5,0
+582,Vanillish,"['Ice Body', 'Snow Cloak', 'Weak Armor']",65,Icy Snow Pokémon,1.1,51,50.0,59,ice,,41.0,5,0
+583,Vanilluxe,"['Ice Body', 'Snow Warning', 'Weak Armor']",95,Snowstorm Pokémon,1.3,71,50.0,79,ice,,57.5,5,0
+584,Deerling,"['Chlorophyll', 'Sap Sipper', 'Serene Grace']",60,Season Pokémon,0.6,60,50.0,75,normal,grass,19.5,5,0
+585,Sawsbuck,"['Chlorophyll', 'Sap Sipper', 'Serene Grace']",100,Season Pokémon,1.9,80,50.0,95,normal,grass,92.5,5,0
+586,Emolga,"['Static', 'Motor Drive']",75,Sky Squirrel Pokémon,0.4,55,50.0,103,electric,flying,5.0,5,0
+587,Karrablast,"['Swarm', 'Shed Skin', 'No Guard']",75,Clamping Pokémon,0.5,50,50.0,60,bug,,5.9,5,0
+588,Escavalier,"['Swarm', 'Shell Armor', 'Overcoat']",135,Cavalry Pokémon,1.0,70,50.0,20,bug,steel,33.0,5,0
+589,Foongus,"['Effect Spore', 'Regenerator']",55,Mushroom Pokémon,0.2,69,50.0,15,grass,poison,1.0,5,0
+590,Amoonguss,"['Effect Spore', 'Regenerator']",85,Mushroom Pokémon,0.6,114,50.0,30,grass,poison,10.5,5,0
+591,Frillish,"['Water Absorb', 'Cursed Body', 'Damp']",40,Floating Pokémon,1.2,55,50.0,40,water,ghost,33.0,5,0
+592,Jellicent,"['Water Absorb', 'Cursed Body', 'Damp']",60,Floating Pokémon,2.2,100,50.0,60,water,ghost,135.0,5,0
+593,Alomomola,"['Healer', 'Hydration', 'Regenerator']",75,Caring Pokémon,1.2,165,50.0,65,water,,31.6,5,0
+594,Joltik,"['Compoundeyes', 'Unnerve', 'Swarm']",47,Attaching Pokémon,0.1,50,50.0,65,bug,electric,0.6,5,0
+595,Galvantula,"['Compoundeyes', 'Unnerve', 'Swarm']",77,EleSpider Pokémon,0.8,70,50.0,108,bug,electric,14.3,5,0
+596,Ferroseed,['Iron Barbs'],50,Thorn Seed Pokémon,0.6,44,50.0,10,grass,steel,18.8,5,0
+597,Ferrothorn,"['Iron Barbs', 'Anticipation']",94,Thorn Pod Pokémon,1.0,74,50.0,20,grass,steel,110.0,5,0
+598,Klink,"['Plus', 'Minus', 'Clear Body']",55,Gear Pokémon,0.3,40,,30,steel,,21.0,5,0
+599,Klang,"['Plus', 'Minus', 'Clear Body']",80,Gear Pokémon,0.6,60,,50,steel,,51.0,5,0
+600,Klinklang,"['Plus', 'Minus', 'Clear Body']",100,Gear Pokémon,0.6,60,,90,steel,,81.0,5,0
+601,Tynamo,['Levitate'],55,EleFish Pokémon,0.2,35,50.0,60,electric,,0.3,5,0
+602,Eelektrik,['Levitate'],85,EleFish Pokémon,1.2,65,50.0,40,electric,,22.0,5,0
+603,Eelektross,['Levitate'],115,EleFish Pokémon,2.1,85,50.0,50,electric,,80.5,5,0
+604,Elgyem,"['Telepathy', 'Synchronize', 'Analytic']",55,Cerebral Pokémon,0.5,55,50.0,30,psychic,,9.0,5,0
+605,Beheeyem,"['Telepathy', 'Synchronize', 'Analytic']",75,Cerebral Pokémon,1.0,75,50.0,40,psychic,,34.5,5,0
+606,Litwick,"['Flash Fire', 'Flame Body', 'Infiltrator']",30,Candle Pokémon,0.3,50,50.0,20,ghost,fire,3.1,5,0
+607,Lampent,"['Flash Fire', 'Flame Body', 'Infiltrator']",40,Lamp Pokémon,0.6,60,50.0,55,ghost,fire,13.0,5,0
+608,Chandelure,"['Flash Fire', 'Flame Body', 'Infiltrator']",55,Luring Pokémon,1.0,60,50.0,80,ghost,fire,34.3,5,0
+609,Axew,"['Rivalry', 'Mold Breaker', 'Unnerve']",87,Tusk Pokémon,0.6,46,50.0,57,dragon,,18.0,5,0
+610,Fraxure,"['Rivalry', 'Mold Breaker', 'Unnerve']",117,Axe Jaw Pokémon,1.0,66,50.0,67,dragon,,36.0,5,0
+611,Haxorus,"['Rivalry', 'Mold Breaker', 'Unnerve']",147,Axe Jaw Pokémon,1.8,76,50.0,97,dragon,,105.5,5,0
+612,Cubchoo,"['Snow Cloak', 'Slush Rush', 'Rattled']",70,Chill Pokémon,0.5,55,50.0,40,ice,,8.5,5,0
+613,Beartic,"['Snow Cloak', 'Slush Rush', 'Swift Swim']",130,Freezing Pokémon,2.6,95,50.0,50,ice,,260.0,5,0
+614,Cryogonal,['Levitate'],50,Crystallizing Pokémon,1.1,80,,105,ice,,148.0,5,0
+615,Shelmet,"['Hydration', 'Shell Armor', 'Overcoat']",40,Snail Pokémon,0.4,50,50.0,25,bug,,7.7,5,0
+616,Accelgor,"['Hydration', 'Sticky Hold', 'Unburden']",70,Shell Out Pokémon,0.8,80,50.0,145,bug,,25.3,5,0
+617,Stunfisk,"['Static', 'Limber', 'Sand Veil']",66,Trap Pokémon,0.7,109,50.0,32,ground,electric,11.0,5,0
+618,Mienfoo,"['Inner Focus', 'Regenerator', 'Reckless']",85,Martial Arts Pokémon,0.9,45,50.0,65,fighting,,20.0,5,0
+619,Mienshao,"['Inner Focus', 'Regenerator', 'Reckless']",125,Martial Arts Pokémon,1.4,65,50.0,105,fighting,,35.5,5,0
+620,Druddigon,"['Rough Skin', 'Sheer Force', 'Mold Breaker']",120,Cave Pokémon,1.6,77,50.0,48,dragon,,139.0,5,0
+621,Golett,"['Iron Fist', 'Klutz', 'No Guard']",74,Automaton Pokémon,1.0,59,,35,ground,ghost,92.0,5,0
+622,Golurk,"['Iron Fist', 'Klutz', 'No Guard']",124,Automaton Pokémon,2.8,89,,55,ground,ghost,330.0,5,0
+623,Pawniard,"['Defiant', 'Inner Focus', 'Pressure']",85,Sharp Blade Pokémon,0.5,45,50.0,60,dark,steel,10.2,5,0
+624,Bisharp,"['Defiant', 'Inner Focus', 'Pressure']",125,Sword Blade Pokémon,1.6,65,50.0,70,dark,steel,70.0,5,0
+625,Bouffalant,"['Reckless', 'Sap Sipper', 'Soundproof']",110,Bash Buffalo Pokémon,1.6,95,50.0,55,normal,,94.6,5,0
+626,Rufflet,"['Keen Eye', 'Sheer Force', 'Hustle']",83,Eaglet Pokémon,0.5,70,100.0,60,normal,flying,10.5,5,0
+627,Braviary,"['Keen Eye', 'Sheer Force', 'Defiant']",123,Valiant Pokémon,1.5,100,100.0,80,normal,flying,41.0,5,0
+628,Vullaby,"['Big Pecks', 'Overcoat', 'Weak Armor']",55,Diapered Pokémon,0.5,70,0.0,60,dark,flying,9.0,5,0
+629,Mandibuzz,"['Big Pecks', 'Overcoat', 'Weak Armor']",65,Bone Vulture Pokémon,1.2,110,0.0,80,dark,flying,39.5,5,0
+630,Heatmor,"['Gluttony', 'Flash Fire', 'White Smoke']",97,Anteater Pokémon,1.4,85,50.0,65,fire,,58.0,5,0
+631,Durant,"['Swarm', 'Hustle', 'Truant']",109,Iron Ant Pokémon,0.3,58,50.0,109,bug,steel,33.0,5,0
+632,Deino,['Hustle'],65,Irate Pokémon,0.8,52,50.0,38,dark,dragon,17.3,5,0
+633,Zweilous,['Hustle'],85,Hostile Pokémon,1.4,72,50.0,58,dark,dragon,50.0,5,0
+634,Hydreigon,['Levitate'],105,Brutal Pokémon,1.8,92,50.0,98,dark,dragon,160.0,5,0
+635,Larvesta,"['Flame Body', 'Swarm']",85,Torch Pokémon,1.1,55,50.0,60,bug,fire,28.8,5,0
+636,Volcarona,"['Flame Body', 'Swarm']",60,Sun Pokémon,1.6,85,50.0,100,bug,fire,46.0,5,0
+637,Cobalion,['Justified'],90,Iron Will Pokémon,2.1,91,,108,steel,fighting,250.0,5,1
+638,Terrakion,['Justified'],129,Cavern Pokémon,1.9,91,,108,rock,fighting,260.0,5,1
+639,Virizion,['Justified'],90,Grassland Pokémon,2.0,91,,108,grass,fighting,200.0,5,1
+640,Tornadus,"['Prankster', 'Defiant', 'Regenerator']",100,Cyclone Pokémon,1.5,79,100.0,121,flying,,63.0,5,1
+641,Thundurus,"['Prankster', 'Defiant', 'Volt Absorb']",105,Bolt Strike Pokémon,1.5,79,100.0,101,electric,flying,61.0,5,1
+642,Reshiram,['Turboblaze'],120,Vast White Pokémon,3.2,100,,90,dragon,fire,330.0,5,1
+643,Zekrom,['Teravolt'],150,Deep Black Pokémon,2.9,100,,90,dragon,electric,345.0,5,1
+644,Landorus,"['Sand Force', 'Sheer Force', 'Intimidate']",145,Abundance Pokémon,1.5,89,100.0,91,ground,flying,68.0,5,1
+645,Kyurem,"['Pressure', 'Teravolt', 'Turboblaze']",120,Boundary Pokémon,3.0,125,,95,dragon,ice,325.0,5,1
+646,Keldeo,['Justified'],72,Colt Pokémon,1.4,91,,108,water,fighting,48.5,5,1
+647,Meloetta,['Serene Grace'],128,Melody Pokémon,0.6,100,,128,normal,psychic,6.5,5,1
+648,Genesect,['Download'],120,Paleozoic Pokémon,1.5,71,,99,bug,steel,82.5,5,1
+649,Chespin,"['Overgrow', 'Bulletproof']",61,Spiky Nut Pokémon,0.4,56,88.1,38,grass,,9.0,6,0
+650,Quilladin,"['Overgrow', 'Bulletproof']",78,Spiny Armor Pokémon,0.7,61,88.1,57,grass,,29.0,6,0
+651,Chesnaught,"['Overgrow', 'Bulletproof']",107,Spiny Armor Pokémon,1.6,88,88.1,64,grass,fighting,90.0,6,0
+652,Fennekin,"['Blaze', 'Magician']",45,Fox Pokémon,0.4,40,88.1,60,fire,,9.4,6,0
+653,Braixen,"['Blaze', 'Magician']",59,Fox Pokémon,1.0,59,88.1,73,fire,,14.5,6,0
+654,Delphox,"['Blaze', 'Magician']",69,Fox Pokémon,1.5,75,88.1,104,fire,psychic,39.0,6,0
+655,Froakie,"['Torrent', 'Protean']",56,Bubble Frog Pokémon,0.3,41,88.1,71,water,,7.0,6,0
+656,Frogadier,"['Torrent', 'Protean']",63,Bubble Frog Pokémon,0.6,54,88.1,97,water,,10.9,6,0
+657,Greninja,"['Torrent', 'Protean', 'Battle Bond']",145,Ninja Pokémon,1.5,72,88.1,132,water,dark,40.0,6,0
+658,Bunnelby,"['Pickup', 'Cheek Pouch', 'Huge Power']",36,Digging Pokémon,0.4,38,50.0,57,normal,,5.0,6,0
+659,Diggersby,"['Pickup', 'Cheek Pouch', 'Huge Power']",56,Digging Pokémon,1.0,85,50.0,78,normal,ground,42.4,6,0
+660,Fletchling,"['Big Pecks', 'Gale Wings']",50,Tiny Robin Pokémon,0.3,45,50.0,62,normal,flying,1.7,6,0
+661,Fletchinder,"['Flame Body', 'Gale Wings']",73,Ember Pokémon,0.7,62,50.0,84,fire,flying,16.0,6,0
+662,Talonflame,"['Flame Body', 'Gale Wings']",81,Scorching Pokémon,1.2,78,50.0,126,fire,flying,24.5,6,0
+663,Scatterbug,"['Shield Dust', 'Compoundeyes', 'Friend Guard']",35,Scatterdust Pokémon,0.3,38,50.0,35,bug,,2.5,6,0
+664,Spewpa,"['Shed Skin', 'Friend Guard']",22,Scatterdust Pokémon,0.3,45,50.0,29,bug,,8.4,6,0
+665,Vivillon,"['Shield Dust', 'Compoundeyes', 'Friend Guard']",52,Scale Pokémon,1.2,80,50.0,89,bug,flying,17.0,6,0
+666,Litleo,"['Rivalry', 'Unnerve', 'Moxie']",50,Lion Cub Pokémon,0.6,62,11.2,72,fire,normal,13.5,6,0
+667,Pyroar,"['Rivalry', 'Unnerve', 'Moxie']",68,Royal Pokémon,1.5,86,11.2,106,fire,normal,81.5,6,0
+668,Flabébé,"['Flower Veil', 'Symbiosis']",38,Single Bloom Pokémon,0.1,44,0.0,42,fairy,,0.1,6,0
+669,Floette,"['Flower Veil', 'Symbiosis']",65,Fairy Pokémon,0.2,74,0.0,92,fairy,,0.9,6,0
+670,Florges,"['Flower Veil', 'Symbiosis']",65,Garden Pokémon,1.1,78,0.0,75,fairy,,10.0,6,0
+671,Skiddo,"['Sap Sipper', 'Grass Pelt']",65,Mount Pokémon,0.9,66,50.0,52,grass,,31.0,6,0
+672,Gogoat,"['Sap Sipper', 'Grass Pelt']",100,Mount Pokémon,1.7,123,50.0,68,grass,,91.0,6,0
+673,Pancham,"['Iron Fist', 'Mold Breaker', 'Scrappy']",82,Playful Pokémon,0.6,67,50.0,43,fighting,,8.0,6,0
+674,Pangoro,"['Iron Fist', 'Mold Breaker', 'Scrappy']",124,Daunting Pokémon,2.1,95,50.0,58,fighting,dark,136.0,6,0
+675,Furfrou,['Fur Coat'],80,Poodle Pokémon,1.2,75,50.0,102,normal,,28.0,6,0
+676,Espurr,"['Keen Eye', 'Infiltrator', 'Own Tempo']",48,Restraint Pokémon,0.3,62,50.0,68,psychic,,3.5,6,0
+677,Meowstic,"['Keen Eye', 'Infiltrator', 'Prankster', 'Competitive']",48,Constraint Pokémon,0.6,74,50.0,104,psychic,,8.5,6,0
+678,Honedge,['No Guard'],80,Sword Pokémon,0.8,45,50.0,28,steel,ghost,2.0,6,0
+679,Doublade,['No Guard'],110,Sword Pokémon,0.8,59,50.0,35,steel,ghost,4.5,6,0
+680,Aegislash,['Stance Change'],150,Royal Sword Pokémon,1.7,60,50.0,60,steel,ghost,53.0,6,0
+681,Spritzee,"['Healer', 'Aroma Veil']",52,Perfume Pokémon,0.2,78,50.0,23,fairy,,0.5,6,0
+682,Aromatisse,"['Healer', 'Aroma Veil']",72,Fragrance Pokémon,0.8,101,50.0,29,fairy,,15.5,6,0
+683,Swirlix,"['Sweet Veil', 'Unburden']",48,Cotton Candy Pokémon,0.4,62,50.0,49,fairy,,3.5,6,0
+684,Slurpuff,"['Sweet Veil', 'Unburden']",80,Meringue Pokémon,0.8,82,50.0,72,fairy,,5.0,6,0
+685,Inkay,"['Contrary', 'Suction Cups', 'Infiltrator']",54,Revolving Pokémon,0.4,53,50.0,45,dark,psychic,3.5,6,0
+686,Malamar,"['Contrary', 'Suction Cups', 'Infiltrator']",92,Overturning Pokémon,1.5,86,50.0,73,dark,psychic,47.0,6,0
+687,Binacle,"['Tough Claws', 'Sniper', 'Pickpocket']",52,Two-Handed Pokémon,0.5,42,50.0,50,rock,water,31.0,6,0
+688,Barbaracle,"['Tough Claws', 'Sniper', 'Pickpocket']",105,Collective Pokémon,1.3,72,50.0,68,rock,water,96.0,6,0
+689,Skrelp,"['Poison Point', 'Poison Touch', 'Adaptability']",60,Mock Kelp Pokémon,0.5,50,50.0,30,poison,water,7.3,6,0
+690,Dragalge,"['Poison Point', 'Poison Touch', 'Adaptability']",75,Mock Kelp Pokémon,1.8,65,50.0,44,poison,dragon,81.5,6,0
+691,Clauncher,['Mega Launcher'],53,Water Gun Pokémon,0.5,50,50.0,44,water,,8.3,6,0
+692,Clawitzer,['Mega Launcher'],73,Howitzer Pokémon,1.3,71,50.0,59,water,,35.3,6,0
+693,Helioptile,"['Dry Skin', 'Sand Veil', 'Solar Power']",38,Generator Pokémon,0.5,44,50.0,70,electric,normal,6.0,6,0
+694,Heliolisk,"['Dry Skin', 'Sand Veil', 'Solar Power']",55,Generator Pokémon,1.0,62,50.0,109,electric,normal,21.0,6,0
+695,Tyrunt,"['Strong Jaw', 'Sturdy']",89,Royal Heir Pokémon,0.8,58,88.1,48,rock,dragon,26.0,6,0
+696,Tyrantrum,"['Strong Jaw', 'Rock Head']",121,Despot Pokémon,2.5,82,88.1,71,rock,dragon,270.0,6,0
+697,Amaura,"['Refrigerate', 'Snow Warning']",59,Tundra Pokémon,1.3,77,88.1,46,rock,ice,25.2,6,0
+698,Aurorus,"['Refrigerate', 'Snow Warning']",77,Tundra Pokémon,2.7,123,88.1,58,rock,ice,225.0,6,0
+699,Sylveon,"['Cute Charm', 'Pixilate']",65,Intertwining Pokémon,1.0,95,88.1,60,fairy,,23.5,6,0
+700,Hawlucha,"['Limber', 'Unburden', 'Mold Breaker']",92,Wrestling Pokémon,0.8,78,50.0,118,fighting,flying,21.5,6,0
+701,Dedenne,"['Cheek Pouch', 'Pickup', 'Plus']",58,Antenna Pokémon,0.2,67,50.0,101,electric,fairy,2.2,6,0
+702,Carbink,"['Clear Body', 'Sturdy']",50,Jewel Pokémon,0.3,50,,50,rock,fairy,5.7,6,0
+703,Goomy,"['Sap Sipper', 'Hydration', 'Gooey']",50,Soft Tissue Pokémon,0.3,45,50.0,40,dragon,,2.8,6,0
+704,Sliggoo,"['Sap Sipper', 'Hydration', 'Gooey']",75,Soft Tissue Pokémon,0.8,68,50.0,60,dragon,,17.5,6,0
+705,Goodra,"['Sap Sipper', 'Hydration', 'Gooey']",100,Dragon Pokémon,2.0,90,50.0,80,dragon,,150.5,6,0
+706,Klefki,"['Prankster', 'Magician']",80,Key Ring Pokémon,0.2,57,50.0,75,steel,fairy,3.0,6,0
+707,Phantump,"['Natural Cure', 'Frisk', 'Harvest']",70,Stump Pokémon,0.4,43,50.0,38,ghost,grass,7.0,6,0
+708,Trevenant,"['Natural Cure', 'Frisk', 'Harvest']",110,Elder Tree Pokémon,1.5,85,50.0,56,ghost,grass,71.0,6,0
+709,Pumpkaboo,"['Pickup', 'Frisk', 'Insomnia']",66,Pumpkin Pokémon,0.8,59,50.0,41,ghost,grass,15.0,6,0
+710,Gourgeist,"['Pickup', 'Frisk', 'Insomnia']",100,Pumpkin Pokémon,1.7,85,50.0,54,ghost,grass,39.0,6,0
+711,Bergmite,"['Own Tempo', 'Ice Body', 'Sturdy']",69,Ice Chunk Pokémon,1.0,55,50.0,28,ice,,99.5,6,0
+712,Avalugg,"['Own Tempo', 'Ice Body', 'Sturdy']",117,Iceberg Pokémon,2.0,95,50.0,28,ice,,505.0,6,0
+713,Noibat,"['Frisk', 'Infiltrator', 'Telepathy']",30,Sound Wave Pokémon,0.5,40,50.0,55,flying,dragon,8.0,6,0
+714,Noivern,"['Frisk', 'Infiltrator', 'Telepathy']",70,Sound Wave Pokémon,1.5,85,50.0,123,flying,dragon,85.0,6,0
+715,Xerneas,['Fairy Aura'],131,Life Pokémon,3.0,126,,99,fairy,,215.0,6,1
+716,Yveltal,['Dark Aura'],131,Destruction Pokémon,5.8,126,,99,dark,flying,203.0,6,1
+717,Zygarde,"['Aura Break', 'Power Construct']",100,Order Pokémon,5.0,216,,85,dragon,ground,284.6,6,1
+718,Diancie,['Clear Body'],160,Jewel Pokémon,0.7,50,,110,rock,fairy,8.8,6,1
+719,Hoopa,['Magician'],160,Mischief Pokémon (Confined)Djinn Pokémonn (Unbound),,80,,80,psychic,ghost,,6,1
+720,Volcanion,['Water Absorb'],110,Steam Pokémon,1.7,80,,70,fire,water,195.0,6,1
+721,Rowlet,"['Overgrow', 'Long Reach']",55,Grass Quill Pokémon,0.3,68,88.1,42,grass,flying,1.5,7,0
+722,Dartrix,"['Overgrow', 'Long Reach']",75,Blade Quill Pokémon,0.7,78,88.1,52,grass,flying,16.0,7,0
+723,Decidueye,"['Overgrow', 'Long Reach']",107,Arrow Quill Pokémon,1.6,78,88.1,70,grass,ghost,36.6,7,0
+724,Litten,"['Blaze', 'Intimidate']",65,Fire Cat Pokémon,0.4,45,88.1,70,fire,,4.3,7,0
+725,Torracat,"['Blaze', 'Intimidate']",85,Fire Cat Pokémon,0.7,65,88.1,90,fire,,25.0,7,0
+726,Incineroar,"['Blaze', 'Intimidate']",115,Heel Pokémon,1.8,95,88.1,60,fire,dark,83.0,7,0
+727,Popplio,"['Torrent', 'Liquid Voice']",54,Sea Lion Pokémon,0.4,50,88.1,40,water,,7.5,7,0
+728,Brionne,"['Torrent', 'Liquid Voice']",69,Pop Star Pokémon,0.6,60,88.1,50,water,,17.5,7,0
+729,Primarina,"['Torrent', 'Liquid Voice']",74,Soloist Pokémon,1.8,80,88.1,60,water,fairy,44.0,7,0
+730,Pikipek,"['Keen Eye', 'Skill Link', 'Pickup']",75,Woodpecker Pokémon,0.3,35,50.0,65,normal,flying,1.2,7,0
+731,Trumbeak,"['Keen Eye', 'Skill Link', 'Pickup']",85,Bugle Beak Pokémon,0.6,55,50.0,75,normal,flying,14.8,7,0
+732,Toucannon,"['Keen Eye', 'Skill Link', 'Sheer Force']",120,Cannon Pokémon,1.1,80,50.0,60,normal,flying,26.0,7,0
+733,Yungoos,"['Stakeout', 'Strong Jaw', 'Adaptability']",70,Loitering Pokémon,0.4,48,50.0,45,normal,,6.0,7,0
+734,Gumshoos,"['Stakeout', 'Strong Jaw', 'Adaptability']",110,Stakeout Pokémon,0.7,88,50.0,45,normal,,14.2,7,0
+735,Grubbin,['Swarm'],62,Larva Pokémon,0.4,47,50.0,46,bug,,4.4,7,0
+736,Charjabug,['Battery'],82,Battery Pokémon,0.5,57,50.0,36,bug,electric,10.5,7,0
+737,Vikavolt,['Levitate'],70,Stag Beetle Pokémon,1.5,77,50.0,43,bug,electric,45.0,7,0
+738,Crabrawler,"['Hyper Cutter', 'Iron Fist', 'Anger Point']",82,Boxing Pokémon,0.6,47,50.0,63,fighting,,7.0,7,0
+739,Crabominable,"['Hyper Cutter', 'Iron Fist', 'Anger Point']",132,Woolly Crab Pokémon,1.7,97,50.0,43,fighting,ice,180.0,7,0
+740,Oricorio,['Dancer'],70,Dancing Pokémon,0.6,75,24.6,93,fire,flying,3.4,7,0
+741,Cutiefly,"['Honey Gather', 'Shield Dust', 'Sweet Veil']",45,Bee Fly Pokémon,0.1,40,50.0,84,bug,fairy,0.2,7,0
+742,Ribombee,"['Honey Gather', 'Shield Dust', 'Sweet Veil']",55,Bee Fly Pokémon,0.2,60,50.0,124,bug,fairy,0.5,7,0
+743,Rockruff,"['Keen Eye', 'Vital Spirit', 'Steadfast']",65,Puppy Pokémon,0.5,45,50.0,60,rock,,9.2,7,0
+744,Lycanroc,"['Keen Eye', 'Sand Rush', 'Steadfast', 'Keen Eye', 'Vital Spirit', 'No Guard']",115,Wolf Pokémon,,85,50.0,82,rock,,,7,0
+745,Wishiwashi,['Schooling'],140,Small Fry Pokémon,0.2,45,50.0,30,water,,0.3,7,0
+746,Mareanie,"['Merciless', 'Limber', 'Regenerator']",53,Brutal Star Pokémon,0.4,50,50.0,45,poison,water,8.0,7,0
+747,Toxapex,"['Merciless', 'Limber', 'Regenerator']",63,Brutal Star Pokémon,0.7,50,50.0,35,poison,water,14.5,7,0
+748,Mudbray,"['Own Tempo', 'Stamina', 'Inner Focus']",100,Donkey Pokémon,1.0,70,50.0,45,ground,,110.0,7,0
+749,Mudsdale,"['Own Tempo', 'Stamina', 'Inner Focus']",125,Draft Horse Pokémon,2.5,100,50.0,35,ground,,920.0,7,0
+750,Dewpider,"['Water Bubble', 'Water Absorb']",40,Water Bubble Pokémon,0.3,38,50.0,27,water,bug,4.0,7,0
+751,Araquanid,"['Water Bubble', 'Water Absorb']",70,Water Bubble Pokémon,1.8,68,50.0,42,water,bug,82.0,7,0
+752,Fomantis,"['Leaf Guard', 'Contrary']",55,Sickle Grass Pokémon,0.3,40,50.0,35,grass,,1.5,7,0
+753,Lurantis,"['Leaf Guard', 'Contrary']",105,Bloom Sickle Pokémon,0.9,70,50.0,45,grass,,18.5,7,0
+754,Morelull,"['Illuminate', 'Effect Spore', 'Rain Dish']",35,Illuminating Pokémon,0.2,40,50.0,15,grass,fairy,1.5,7,0
+755,Shiinotic,"['Illuminate', 'Effect Spore', 'Rain Dish']",45,Illuminating Pokémon,1.0,60,50.0,30,grass,fairy,11.5,7,0
+756,Salandit,"['Corrosion', 'Oblivious']",44,Toxic Lizard Pokémon,0.6,48,88.1,77,poison,fire,4.8,7,0
+757,Salazzle,"['Corrosion', 'Oblivious']",64,Toxic Lizard Pokémon,1.2,68,0.0,117,poison,fire,22.2,7,0
+758,Stufful,"['Fluffy', 'Klutz', 'Cute Charm']",75,Flailing Pokémon,0.5,70,50.0,50,normal,fighting,6.8,7,0
+759,Bewear,"['Fluffy', 'Klutz', 'Unnerve']",125,Strong Arm Pokémon,2.1,120,50.0,60,normal,fighting,135.0,7,0
+760,Bounsweet,"['Leaf Guard', 'Oblivious', 'Sweet Veil']",30,Fruit Pokémon,0.3,42,0.0,32,grass,,3.2,7,0
+761,Steenee,"['Leaf Guard', 'Oblivious', 'Sweet Veil']",40,Fruit Pokémon,0.7,52,0.0,62,grass,,8.2,7,0
+762,Tsareena,"['Leaf Guard', 'Queenly Majesty', 'Sweet Veil']",120,Fruit Pokémon,1.2,72,0.0,72,grass,,21.4,7,0
+763,Comfey,"['Flower Veil', 'Triage', 'Natural Cure']",52,Posy Picker Pokémon,0.1,51,24.6,100,fairy,,0.3,7,0
+764,Oranguru,"['Inner Focus', 'Telepathy', 'Symbiosis']",60,Sage Pokémon,1.5,90,50.0,60,normal,psychic,76.0,7,0
+765,Passimian,"['Receiver', 'Defiant']",120,Teamwork Pokémon,2.0,100,50.0,80,fighting,,82.8,7,0
+766,Wimpod,['Wimp Out'],35,Turn Tail Pokémon,0.5,25,50.0,80,bug,water,12.0,7,0
+767,Golisopod,['Emergency Exit'],125,Hard Scale Pokémon,2.0,75,50.0,40,bug,water,108.0,7,0
+768,Sandygast,"['Water Compaction', 'Sand Veil']",55,Sand Heap Pokémon,0.5,55,50.0,15,ghost,ground,70.0,7,0
+769,Palossand,"['Water Compaction', 'Sand Veil']",75,Sand Castle Pokémon,1.3,85,50.0,35,ghost,ground,250.0,7,0
+770,Pyukumuku,"['Innards Out', 'Unaware']",60,Sea Cucumber Pokémon,0.3,55,50.0,5,water,,1.2,7,0
+771,Type: Null,['Battle Armor'],95,Synthetic Pokémon,1.9,95,,59,normal,,120.5,7,0
+772,Silvally,['RKS System'],95,Synthetic Pokémon,2.3,95,,95,normal,,100.5,7,0
+773,Minior,['Shields Down'],100,Meteor Pokémon,0.3,60,,120,rock,flying,40.0,7,0
+774,Komala,['Comatose'],115,Drowsing Pokémon,0.4,65,50.0,65,normal,,19.9,7,0
+775,Turtonator,['Shell Armor'],78,Blast Turtle Pokémon,2.0,60,50.0,36,fire,dragon,212.0,7,0
+776,Togedemaru,"['Iron Barbs', 'Lightningrod', 'Sturdy']",98,Roly-Poly Pokémon,0.3,65,50.0,96,electric,steel,3.3,7,0
+777,Mimikyu,['Disguise'],90,Disguise Pokémon,0.2,55,50.0,96,ghost,fairy,0.7,7,0
+778,Bruxish,"['Dazzling', 'Strong Jaw', 'Wonder Skin ']",105,Gnash Teeth Pokémon,0.9,68,50.0,92,water,psychic,19.0,7,0
+779,Drampa,"['Berserk', 'Sap Sipper', 'Cloud Nine']",60,Placid Pokémon,3.0,78,50.0,36,normal,dragon,185.0,7,0
+780,Dhelmise,['Steelworker'],131,Sea Creeper Pokémon,3.9,70,,40,ghost,grass,210.0,7,0
+781,Jangmo-o,"['Bulletproof', 'Soundproof', 'Overcoat']",55,Scaly Pokémon,0.6,45,50.0,45,dragon,,29.7,7,0
+782,Hakamo-o,"['Bulletproof', 'Soundproof', 'Overcoat']",75,Scaly Pokémon,1.2,55,50.0,65,dragon,fighting,47.0,7,0
+783,Kommo-o,"['Bulletproof', 'Soundproof', 'Overcoat']",110,Scaly Pokémon,1.6,75,50.0,85,dragon,fighting,78.2,7,0
+784,Tapu Koko,"['Electric Surge', 'Telepathy']",115,Land Spirit Pokémon,1.8,70,,130,electric,fairy,20.5,7,1
+785,Tapu Lele,"['Psychic Surge', 'Telepathy']",85,Land Spirit Pokémon,1.2,70,,95,psychic,fairy,18.6,7,1
+786,Tapu Bulu,"['Grassy Surge', 'Telepathy']",130,Land Spirit Pokémon,1.9,70,,75,grass,fairy,45.5,7,1
+787,Tapu Fini,"['Misty Surge', 'Telepathy']",75,Land Spirit Pokémon,1.3,70,,85,water,fairy,21.2,7,1
+788,Cosmog,['Unaware'],29,Nebula Pokémon,0.2,43,,37,psychic,,0.1,7,1
+789,Cosmoem,['Sturdy'],29,Protostar Pokémon,0.1,43,,37,psychic,,999.9,7,1
+790,Solgaleo,['Full Metal Body'],137,Sunne Pokémon,3.4,137,,97,psychic,steel,230.0,7,1
+791,Lunala,['Shadow Shield'],113,Moone Pokémon,4.0,137,,97,psychic,ghost,120.0,7,1
+792,Nihilego,['Beast Boost'],53,Parasite Pokémon,1.2,109,,103,rock,poison,55.5,7,1
+793,Buzzwole,['Beast Boost'],139,Swollen Pokémon,2.4,107,,79,bug,fighting,333.6,7,1
+794,Pheromosa,['Beast Boost'],137,Lissome Pokémon,1.8,71,,151,bug,fighting,25.0,7,1
+795,Xurkitree,['Beast Boost'],89,Glowing Pokémon,3.8,83,,83,electric,,100.0,7,1
+796,Celesteela,['Beast Boost'],101,Launch Pokémon,9.2,97,,61,steel,flying,999.9,7,1
+797,Kartana,['Beast Boost'],181,Drawn Sword Pokémon,0.3,59,,109,grass,steel,0.1,7,1
+798,Guzzlord,['Beast Boost'],101,Junkivore Pokémon,5.5,223,,43,dark,dragon,888.0,7,1
+799,Necrozma,['Prism Armor'],107,Prism Pokémon,2.4,97,,79,psychic,,230.0,7,1
+800,Magearna,['Soul-Heart'],95,Artificial Pokémon,1.0,80,,65,steel,fairy,80.5,7,1
